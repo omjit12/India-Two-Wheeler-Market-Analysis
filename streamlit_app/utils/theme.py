@@ -50,6 +50,17 @@ def get_theme():
         color      : #2ECC71 !important;
         background : #1A1A1A !important;
     }
+    [data-testid="stSidebarContent"] {
+    padding-top: 0rem !important;
+    }
+    
+    [data-testid="stSidebarUserContent"] {
+        padding-top: 0rem !important;
+    }
+    
+    section[data-testid="stSidebar"] > div {
+        padding-top: 0rem !important;
+    }
 
     /* ── Typography — dark text on white bg ───────────────────────────────── */
     h1, h2, h3 { color: #1A1A2E !important; }

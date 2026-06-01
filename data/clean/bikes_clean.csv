@@ -1,0 +1,67 @@
+bike_id,brand_id,name,brand,segment,fuel_type,is_ev,price_inr,engine_cc,power_bhp,torque_nm,mileage_kmpl,weight_kg,top_speed_kmph,battery_kwh,range_km,launch_year,rating,price_band,value_score,efficiency
+BK001,BR01,Hero Splendor Plus,Hero MotoCorp,Commuter,Petrol,False,72000,97.2,8.02,8.05,80.0,112,95,0.0,0.0,2015,4.2,Budget (Under 80K),11.14,80.0
+BK002,BR01,Hero HF Deluxe,Hero MotoCorp,Commuter,Petrol,False,58000,97.2,8.02,8.05,85.0,109,90,0.0,0.0,2014,4.0,Budget (Under 80K),13.83,85.0
+BK003,BR01,Hero Passion Pro,Hero MotoCorp,Commuter,Petrol,False,78000,113.2,9.15,9.89,65.0,118,95,0.0,0.0,2017,4.1,Budget (Under 80K),11.73,65.0
+BK004,BR01,Hero Glamour,Hero MotoCorp,Commuter,Petrol,False,82000,124.7,10.69,10.6,55.0,125,98,0.0,0.0,2018,4.2,Mid-range (80K–1.5L),13.04,55.0
+BK005,BR01,Hero Xtreme 160R,Hero MotoCorp,Sports,Petrol,False,115000,163.0,15.2,14.0,45.0,149,109,0.0,0.0,2020,4.3,Mid-range (80K–1.5L),13.22,45.0
+BK006,BR01,Hero XPulse 200,Hero MotoCorp,Adventure,Petrol,False,138000,199.6,18.8,17.35,40.0,157,127,0.0,0.0,2019,4.4,Mid-range (80K–1.5L),13.62,40.0
+BK007,BR02,Honda Shine,Honda,Commuter,Petrol,False,80000,123.94,10.59,11.0,60.0,122,95,0.0,0.0,2016,4.2,Mid-range (80K–1.5L),13.24,60.0
+BK008,BR02,Honda SP 125,Honda,Commuter,Petrol,False,84000,123.94,10.59,11.0,65.0,118,98,0.0,0.0,2019,4.3,Mid-range (80K–1.5L),12.61,65.0
+BK009,BR02,Honda Unicorn,Honda,Commuter,Petrol,False,103000,162.71,13.4,14.2,50.0,146,107,0.0,0.0,2015,4.3,Mid-range (80K–1.5L),13.01,50.0
+BK010,BR02,Honda Activa 6G,Honda,Scooter,Petrol,False,74000,109.51,7.68,8.79,60.0,107,88,0.0,0.0,2020,4.5,Budget (Under 80K),10.38,60.0
+BK011,BR02,Honda Activa 125,Honda,Scooter,Petrol,False,82000,124.0,8.29,10.3,55.0,111,92,0.0,0.0,2019,4.4,Mid-range (80K–1.5L),10.11,55.0
+BK012,BR02,Honda Dio,Honda,Scooter,Petrol,False,72000,109.51,7.68,8.79,55.0,102,85,0.0,0.0,2017,4.2,Budget (Under 80K),10.67,55.0
+BK013,BR02,Honda Hornet 2.0,Honda,Sports,Petrol,False,135000,184.4,17.03,16.1,40.0,156,120,0.0,0.0,2020,4.3,Mid-range (80K–1.5L),12.61,40.0
+BK014,BR02,Honda Highness CB350,Honda,Cruiser,Petrol,False,210000,348.36,21.0,30.0,35.0,182,133,0.0,0.0,2020,4.5,Premium (1.5L–2.5L),10.0,35.0
+BK015,BR03,TVS Jupiter,TVS,Scooter,Petrol,False,76000,109.7,7.88,8.8,55.0,108,90,0.0,0.0,2016,4.3,Budget (Under 80K),10.37,55.0
+BK016,BR03,TVS NTORQ 125,TVS,Scooter,Petrol,False,88000,124.8,9.38,10.5,45.0,118,95,0.0,0.0,2018,4.4,Mid-range (80K–1.5L),10.66,45.0
+BK017,BR03,TVS Zest 110,TVS,Scooter,Petrol,False,65000,109.7,7.88,8.8,60.0,103,85,0.0,0.0,2015,4.0,Budget (Under 80K),12.12,60.0
+BK018,BR03,TVS Apache RTR 160 4V,TVS,Sports,Petrol,False,118000,159.7,17.55,14.73,45.0,153,114,0.0,0.0,2018,4.4,Mid-range (80K–1.5L),14.87,45.0
+BK019,BR03,TVS Apache RTR 200 4V,TVS,Sports,Petrol,False,142000,197.75,20.8,18.1,35.0,166,127,0.0,0.0,2018,4.4,Mid-range (80K–1.5L),14.65,35.0
+BK020,BR03,TVS Apache RR 310,TVS,Sports,Petrol,False,270000,312.2,34.0,27.3,30.0,174,160,0.0,0.0,2018,4.6,Luxury (Above 2.5L),12.59,30.0
+BK021,BR06,Suzuki Access 125,Suzuki,Scooter,Petrol,False,85000,124.0,8.58,10.0,55.0,104,95,0.0,0.0,2016,4.3,Mid-range (80K–1.5L),10.09,55.0
+BK022,BR06,Suzuki Burgman Street,Suzuki,Scooter,Petrol,False,95000,124.0,8.58,10.0,50.0,108,98,0.0,0.0,2018,4.3,Mid-range (80K–1.5L),9.03,50.0
+BK023,BR06,Suzuki V-Strom 250,Suzuki,Adventure,Petrol,False,310000,248.8,26.5,22.2,30.0,187,145,0.0,0.0,2019,4.4,Luxury (Above 2.5L),8.55,30.0
+BK024,BR04,Bajaj Pulsar 150,Bajaj,Sports,Petrol,False,115000,149.5,14.0,13.25,50.0,148,109,0.0,0.0,2013,4.2,Mid-range (80K–1.5L),12.17,50.0
+BK025,BR04,Bajaj Pulsar NS200,Bajaj,Sports,Petrol,False,145000,199.5,24.5,18.74,35.0,166,136,0.0,0.0,2017,4.4,Mid-range (80K–1.5L),16.9,35.0
+BK026,BR04,Bajaj Pulsar RS200,Bajaj,Sports,Petrol,False,165000,199.5,24.5,18.74,32.0,170,140,0.0,0.0,2017,4.3,Premium (1.5L–2.5L),14.85,32.0
+BK027,BR04,Bajaj Pulsar N250,Bajaj,Sports,Petrol,False,145000,249.07,24.5,21.5,35.0,162,130,0.0,0.0,2021,4.3,Mid-range (80K–1.5L),16.9,35.0
+BK028,BR04,Bajaj Dominar 400,Bajaj,Sports,Petrol,False,225000,373.3,40.0,35.0,28.0,187,148,0.0,0.0,2017,4.5,Premium (1.5L–2.5L),17.78,28.0
+BK029,BR04,Bajaj Avenger Street 160,Bajaj,Cruiser,Petrol,False,112000,160.0,15.6,14.59,45.0,158,115,0.0,0.0,2015,4.1,Mid-range (80K–1.5L),13.93,45.0
+BK030,BR04,Bajaj Avenger Cruise 220,Bajaj,Cruiser,Petrol,False,135000,220.0,19.03,17.55,40.0,172,120,0.0,0.0,2015,4.2,Mid-range (80K–1.5L),14.1,40.0
+BK031,BR04,Bajaj CT 110,Bajaj,Commuter,Petrol,False,55000,115.45,8.6,9.81,85.0,118,88,0.0,0.0,2014,4.0,Budget (Under 80K),15.64,85.0
+BK032,BR05,Yamaha FZS FI V3,Yamaha,Sports,Petrol,False,115000,149.0,13.3,13.3,47.0,135,105,0.0,0.0,2019,4.3,Mid-range (80K–1.5L),11.57,47.0
+BK033,BR05,Yamaha MT-15,Yamaha,Sports,Petrol,False,158000,155.0,18.37,14.1,40.0,142,128,0.0,0.0,2019,4.5,Premium (1.5L–2.5L),11.63,40.0
+BK034,BR05,Yamaha R15 V4,Yamaha,Sports,Petrol,False,178000,155.0,18.37,14.2,38.0,141,136,0.0,0.0,2021,4.6,Premium (1.5L–2.5L),10.32,38.0
+BK035,BR05,Yamaha FZ 25,Yamaha,Sports,Petrol,False,142000,249.0,20.8,20.1,35.0,160,130,0.0,0.0,2017,4.3,Mid-range (80K–1.5L),14.65,35.0
+BK036,BR05,Yamaha Fascino 125,Yamaha,Scooter,Petrol,False,78000,124.7,8.2,10.3,55.0,99,95,0.0,0.0,2020,4.3,Budget (Under 80K),10.51,55.0
+BK037,BR08,KTM Duke 200,KTM,Sports,Petrol,False,188000,199.5,25.0,19.3,35.0,159,136,0.0,0.0,2016,4.5,Premium (1.5L–2.5L),13.3,35.0
+BK038,BR08,KTM Duke 390,KTM,Sports,Petrol,False,305000,373.2,43.5,37.0,25.0,171,167,0.0,0.0,2017,4.6,Luxury (Above 2.5L),14.26,25.0
+BK039,BR08,KTM RC 390,KTM,Sports,Petrol,False,315000,373.2,43.5,37.0,25.0,172,175,0.0,0.0,2017,4.5,Luxury (Above 2.5L),13.81,25.0
+BK040,BR08,KTM Adventure 390,KTM,Adventure,Petrol,False,345000,373.2,43.5,37.0,24.0,185,162,0.0,0.0,2019,4.6,Luxury (Above 2.5L),12.61,24.0
+BK041,BR07,Royal Enfield Classic 350,Royal Enfield,Cruiser,Petrol,False,192000,349.0,20.2,27.0,35.0,195,128,0.0,0.0,2010,4.5,Premium (1.5L–2.5L),10.52,35.0
+BK042,BR07,Royal Enfield Meteor 350,Royal Enfield,Cruiser,Petrol,False,205000,349.0,20.2,27.0,35.0,191,130,0.0,0.0,2020,4.5,Premium (1.5L–2.5L),9.85,35.0
+BK043,BR07,Royal Enfield Bullet 350,Royal Enfield,Cruiser,Petrol,False,175000,346.0,19.1,28.0,40.0,191,120,0.0,0.0,2008,4.3,Premium (1.5L–2.5L),10.91,40.0
+BK044,BR07,Royal Enfield Hunter 350,Royal Enfield,Cruiser,Petrol,False,150000,349.0,20.2,27.0,35.0,181,124,0.0,0.0,2022,4.4,Premium (1.5L–2.5L),13.47,35.0
+BK045,BR07,Royal Enfield Himalayan,Royal Enfield,Adventure,Petrol,False,215000,411.0,24.3,32.0,30.0,199,140,0.0,0.0,2016,4.4,Premium (1.5L–2.5L),11.3,30.0
+BK046,BR07,Royal Enfield Thunderbird 350,Royal Enfield,Cruiser,Petrol,False,180000,346.0,19.8,28.0,38.0,187,125,0.0,0.0,2012,4.3,Premium (1.5L–2.5L),11.0,38.0
+BK047,BR09,BMW G 310 GS,BMW,Adventure,Petrol,False,395000,312.2,34.0,28.0,30.0,170,160,0.0,0.0,2018,4.5,Luxury (Above 2.5L),8.61,30.0
+BK048,BR10,Jawa 42,Jawa,Cruiser,Petrol,False,180000,294.0,27.3,28.1,35.0,170,125,0.0,0.0,2018,4.2,Premium (1.5L–2.5L),15.17,35.0
+BK049,BR01,Hero Destini 125,Hero MotoCorp,Scooter,Petrol,False,75000,124.6,8.73,10.2,51.0,107,90,0.0,0.0,2018,4.1,Budget (Under 80K),11.64,51.0
+BK050,BR02,Honda Grazia,Honda,Scooter,Petrol,False,80000,124.0,8.2,10.3,52.0,107,90,0.0,0.0,2017,4.2,Mid-range (80K–1.5L),10.25,52.0
+BK051,BR11,Ola S1 Pro,Ola Electric,Electric Scooter,Electric,True,140000,0.0,8.5,58.0,0.0,125,116,4.0,181.0,2021,4.0,Mid-range (80K–1.5L),6.07,181.0
+BK052,BR11,Ola S1 Air,Ola Electric,Electric Scooter,Electric,True,105000,0.0,6.0,50.0,0.0,99,90,2.5,101.0,2023,3.8,Mid-range (80K–1.5L),5.71,101.0
+BK053,BR11,Ola S1 X,Ola Electric,Electric Scooter,Electric,True,90000,0.0,5.5,45.0,0.0,99,85,2.0,91.0,2023,3.7,Mid-range (80K–1.5L),6.11,91.0
+BK054,BR12,Ather 450X,Ather,Electric Scooter,Electric,True,145000,0.0,6.4,26.0,0.0,108,90,2.9,146.0,2021,4.3,Mid-range (80K–1.5L),4.41,146.0
+BK055,BR12,Ather 450 Apex,Ather,Electric Scooter,Electric,True,190000,0.0,9.2,26.0,0.0,108,100,3.7,157.0,2023,4.4,Premium (1.5L–2.5L),4.84,157.0
+BK056,BR12,Ather Rizta,Ather,Electric Scooter,Electric,True,110000,0.0,6.0,26.0,0.0,118,95,2.9,123.0,2024,4.2,Mid-range (80K–1.5L),5.45,123.0
+BK057,BR03,TVS iQube,TVS,Electric Scooter,Electric,True,102000,0.0,4.4,18.1,0.0,118,82,3.04,100.0,2022,4.0,Mid-range (80K–1.5L),4.31,100.0
+BK058,BR03,TVS iQube S,TVS,Electric Scooter,Electric,True,120000,0.0,4.4,18.1,0.0,118,82,3.04,115.0,2022,4.1,Mid-range (80K–1.5L),3.67,115.0
+BK059,BR04,Bajaj Chetak,Bajaj,Electric Scooter,Electric,True,135000,0.0,4.08,16.0,0.0,116,73,3.2,123.0,2021,4.0,Mid-range (80K–1.5L),3.02,123.0
+BK060,BR13,Simple One,Simple Energy,Electric Scooter,Electric,True,145000,0.0,8.5,72.0,0.0,110,105,4.8,212.0,2022,4.1,Mid-range (80K–1.5L),5.86,212.0
+BK061,BR14,Revolt RV400,Revolt,Electric Bike,Electric,True,150000,0.0,3.24,9.0,0.0,108,85,3.24,150.0,2020,3.9,Premium (1.5L–2.5L),2.16,150.0
+BK062,BR14,Revolt RV300,Revolt,Electric Bike,Electric,True,130000,0.0,2.2,9.0,0.0,98,80,2.7,130.0,2020,3.8,Mid-range (80K–1.5L),1.69,130.0
+BK063,BR15,Ultraviolette F77,Ultraviolette,Electric Bike,Electric,True,308000,0.0,29.5,95.0,0.0,158,147,10.3,307.0,2023,4.5,Luxury (Above 2.5L),9.58,307.0
+BK064,BR16,Hero Optima,Hero Electric,Electric Scooter,Electric,True,72000,0.0,1.06,,0.0,96,45,1.44,82.0,2019,3.6,Budget (Under 80K),1.47,82.0
+BK065,BR17,Ampere Primus,Greaves Electric,Electric Scooter,Electric,True,95000,0.0,3.5,30.0,0.0,108,72,2.1,105.0,2022,3.8,Mid-range (80K–1.5L),3.68,105.0
+BK066,BR18,BGauss B8,BGauss,Electric Scooter,Electric,True,118000,0.0,6.5,42.0,0.0,112,85,3.0,110.0,2022,3.9,Mid-range (80K–1.5L),5.51,110.0

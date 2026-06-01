@@ -1,0 +1,1201 @@
+state,year,month,month_date,ev_registrations,charging_stations,region
+Maharashtra,2019,1,2019-01-01,0,1,West
+Maharashtra,2019,2,2019-02-01,1,3,West
+Maharashtra,2019,3,2019-03-01,4,5,West
+Maharashtra,2019,4,2019-04-01,7,7,West
+Maharashtra,2019,5,2019-05-01,10,9,West
+Maharashtra,2019,6,2019-06-01,18,11,West
+Maharashtra,2019,7,2019-07-01,21,13,West
+Maharashtra,2019,8,2019-08-01,24,14,West
+Maharashtra,2019,9,2019-09-01,44,16,West
+Maharashtra,2019,10,2019-10-01,53,18,West
+Maharashtra,2019,11,2019-11-01,63,20,West
+Maharashtra,2019,12,2019-12-01,83,22,West
+Maharashtra,2020,1,2020-01-01,77,24,West
+Maharashtra,2020,2,2020-02-01,81,26,West
+Maharashtra,2020,3,2020-03-01,111,28,West
+Maharashtra,2020,4,2020-04-01,122,29,West
+Maharashtra,2020,5,2020-05-01,129,31,West
+Maharashtra,2020,6,2020-06-01,160,33,West
+Maharashtra,2020,7,2020-07-01,167,35,West
+Maharashtra,2020,8,2020-08-01,155,37,West
+Maharashtra,2020,9,2020-09-01,208,39,West
+Maharashtra,2020,10,2020-10-01,208,41,West
+Maharashtra,2020,11,2020-11-01,271,42,West
+Maharashtra,2020,12,2020-12-01,265,44,West
+Maharashtra,2021,1,2021-01-01,354,46,West
+Maharashtra,2021,2,2021-02-01,403,48,West
+Maharashtra,2021,3,2021-03-01,394,50,West
+Maharashtra,2021,4,2021-04-01,319,52,West
+Maharashtra,2021,5,2021-05-01,496,54,West
+Maharashtra,2021,6,2021-06-01,535,56,West
+Maharashtra,2021,7,2021-07-01,481,57,West
+Maharashtra,2021,8,2021-08-01,593,59,West
+Maharashtra,2021,9,2021-09-01,508,61,West
+Maharashtra,2021,10,2021-10-01,448,63,West
+Maharashtra,2021,11,2021-11-01,556,65,West
+Maharashtra,2021,12,2021-12-01,782,67,West
+Maharashtra,2022,1,2022-01-01,562,69,West
+Maharashtra,2022,2,2022-02-01,721,70,West
+Maharashtra,2022,3,2022-03-01,763,72,West
+Maharashtra,2022,4,2022-04-01,750,74,West
+Maharashtra,2022,5,2022-05-01,795,76,West
+Maharashtra,2022,6,2022-06-01,889,78,West
+Maharashtra,2022,7,2022-07-01,862,80,West
+Maharashtra,2022,8,2022-08-01,802,82,West
+Maharashtra,2022,9,2022-09-01,1038,84,West
+Maharashtra,2022,10,2022-10-01,1194,85,West
+Maharashtra,2022,11,2022-11-01,1219,87,West
+Maharashtra,2022,12,2022-12-01,1040,89,West
+Maharashtra,2023,1,2023-01-01,1020,91,West
+Maharashtra,2023,2,2023-02-01,1207,93,West
+Maharashtra,2023,3,2023-03-01,1545,95,West
+Maharashtra,2023,4,2023-04-01,1456,97,West
+Maharashtra,2023,5,2023-05-01,1523,98,West
+Maharashtra,2023,6,2023-06-01,1613,100,West
+Maharashtra,2023,7,2023-07-01,1588,102,West
+Maharashtra,2023,8,2023-08-01,1590,104,West
+Maharashtra,2023,9,2023-09-01,1753,106,West
+Maharashtra,2023,10,2023-10-01,1571,108,West
+Maharashtra,2023,11,2023-11-01,1445,110,West
+Maharashtra,2023,12,2023-12-01,1956,112,West
+Delhi,2019,1,2019-01-01,0,1,North
+Delhi,2019,2,2019-02-01,1,3,North
+Delhi,2019,3,2019-03-01,4,4,North
+Delhi,2019,4,2019-04-01,8,6,North
+Delhi,2019,5,2019-05-01,11,7,North
+Delhi,2019,6,2019-06-01,14,9,North
+Delhi,2019,7,2019-07-01,22,11,North
+Delhi,2019,8,2019-08-01,26,12,North
+Delhi,2019,9,2019-09-01,33,14,North
+Delhi,2019,10,2019-10-01,46,15,North
+Delhi,2019,11,2019-11-01,43,17,North
+Delhi,2019,12,2019-12-01,52,19,North
+Delhi,2020,1,2020-01-01,75,20,North
+Delhi,2020,2,2020-02-01,86,22,North
+Delhi,2020,3,2020-03-01,104,23,North
+Delhi,2020,4,2020-04-01,139,25,North
+Delhi,2020,5,2020-05-01,130,26,North
+Delhi,2020,6,2020-06-01,154,28,North
+Delhi,2020,7,2020-07-01,141,30,North
+Delhi,2020,8,2020-08-01,194,31,North
+Delhi,2020,9,2020-09-01,183,33,North
+Delhi,2020,10,2020-10-01,216,34,North
+Delhi,2020,11,2020-11-01,232,36,North
+Delhi,2020,12,2020-12-01,287,38,North
+Delhi,2021,1,2021-01-01,234,39,North
+Delhi,2021,2,2021-02-01,218,41,North
+Delhi,2021,3,2021-03-01,315,42,North
+Delhi,2021,4,2021-04-01,368,44,North
+Delhi,2021,5,2021-05-01,380,45,North
+Delhi,2021,6,2021-06-01,459,47,North
+Delhi,2021,7,2021-07-01,449,49,North
+Delhi,2021,8,2021-08-01,424,50,North
+Delhi,2021,9,2021-09-01,348,52,North
+Delhi,2021,10,2021-10-01,499,53,North
+Delhi,2021,11,2021-11-01,611,55,North
+Delhi,2021,12,2021-12-01,548,57,North
+Delhi,2022,1,2022-01-01,610,58,North
+Delhi,2022,2,2022-02-01,674,60,North
+Delhi,2022,3,2022-03-01,593,61,North
+Delhi,2022,4,2022-04-01,764,63,North
+Delhi,2022,5,2022-05-01,893,64,North
+Delhi,2022,6,2022-06-01,767,66,North
+Delhi,2022,7,2022-07-01,710,68,North
+Delhi,2022,8,2022-08-01,853,69,North
+Delhi,2022,9,2022-09-01,659,71,North
+Delhi,2022,10,2022-10-01,978,72,North
+Delhi,2022,11,2022-11-01,1035,74,North
+Delhi,2022,12,2022-12-01,1229,76,North
+Delhi,2023,1,2023-01-01,1042,77,North
+Delhi,2023,2,2023-02-01,1165,79,North
+Delhi,2023,3,2023-03-01,1036,80,North
+Delhi,2023,4,2023-04-01,1150,82,North
+Delhi,2023,5,2023-05-01,1019,83,North
+Delhi,2023,6,2023-06-01,1265,85,North
+Delhi,2023,7,2023-07-01,1295,87,North
+Delhi,2023,8,2023-08-01,1443,88,North
+Delhi,2023,9,2023-09-01,1335,90,North
+Delhi,2023,10,2023-10-01,1510,91,North
+Delhi,2023,11,2023-11-01,1485,93,North
+Delhi,2023,12,2023-12-01,1536,95,North
+Karnataka,2019,1,2019-01-01,0,1,South
+Karnataka,2019,2,2019-02-01,1,2,South
+Karnataka,2019,3,2019-03-01,4,4,South
+Karnataka,2019,4,2019-04-01,6,5,South
+Karnataka,2019,5,2019-05-01,9,7,South
+Karnataka,2019,6,2019-06-01,14,8,South
+Karnataka,2019,7,2019-07-01,18,10,South
+Karnataka,2019,8,2019-08-01,25,11,South
+Karnataka,2019,9,2019-09-01,41,13,South
+Karnataka,2019,10,2019-10-01,37,14,South
+Karnataka,2019,11,2019-11-01,48,16,South
+Karnataka,2019,12,2019-12-01,57,17,South
+Karnataka,2020,1,2020-01-01,68,19,South
+Karnataka,2020,2,2020-02-01,78,20,South
+Karnataka,2020,3,2020-03-01,96,22,South
+Karnataka,2020,4,2020-04-01,84,23,South
+Karnataka,2020,5,2020-05-01,135,24,South
+Karnataka,2020,6,2020-06-01,145,26,South
+Karnataka,2020,7,2020-07-01,127,27,South
+Karnataka,2020,8,2020-08-01,121,29,South
+Karnataka,2020,9,2020-09-01,162,30,South
+Karnataka,2020,10,2020-10-01,195,32,South
+Karnataka,2020,11,2020-11-01,288,33,South
+Karnataka,2020,12,2020-12-01,255,35,South
+Karnataka,2021,1,2021-01-01,203,36,South
+Karnataka,2021,2,2021-02-01,258,38,South
+Karnataka,2021,3,2021-03-01,301,39,South
+Karnataka,2021,4,2021-04-01,336,41,South
+Karnataka,2021,5,2021-05-01,295,42,South
+Karnataka,2021,6,2021-06-01,368,44,South
+Karnataka,2021,7,2021-07-01,365,45,South
+Karnataka,2021,8,2021-08-01,370,46,South
+Karnataka,2021,9,2021-09-01,467,48,South
+Karnataka,2021,10,2021-10-01,526,49,South
+Karnataka,2021,11,2021-11-01,561,51,South
+Karnataka,2021,12,2021-12-01,577,52,South
+Karnataka,2022,1,2022-01-01,536,54,South
+Karnataka,2022,2,2022-02-01,653,55,South
+Karnataka,2022,3,2022-03-01,657,57,South
+Karnataka,2022,4,2022-04-01,677,58,South
+Karnataka,2022,5,2022-05-01,649,60,South
+Karnataka,2022,6,2022-06-01,691,61,South
+Karnataka,2022,7,2022-07-01,777,63,South
+Karnataka,2022,8,2022-08-01,1042,64,South
+Karnataka,2022,9,2022-09-01,874,66,South
+Karnataka,2022,10,2022-10-01,817,67,South
+Karnataka,2022,11,2022-11-01,828,68,South
+Karnataka,2022,12,2022-12-01,903,70,South
+Karnataka,2023,1,2023-01-01,1261,71,South
+Karnataka,2023,2,2023-02-01,991,73,South
+Karnataka,2023,3,2023-03-01,1201,74,South
+Karnataka,2023,4,2023-04-01,1075,76,South
+Karnataka,2023,5,2023-05-01,1207,77,South
+Karnataka,2023,6,2023-06-01,1330,79,South
+Karnataka,2023,7,2023-07-01,1173,80,South
+Karnataka,2023,8,2023-08-01,1206,82,South
+Karnataka,2023,9,2023-09-01,1623,83,South
+Karnataka,2023,10,2023-10-01,1567,85,South
+Karnataka,2023,11,2023-11-01,1588,86,South
+Karnataka,2023,12,2023-12-01,1641,88,South
+Tamil Nadu,2019,1,2019-01-01,0,1,South
+Tamil Nadu,2019,2,2019-02-01,1,2,South
+Tamil Nadu,2019,3,2019-03-01,3,3,South
+Tamil Nadu,2019,4,2019-04-01,5,5,South
+Tamil Nadu,2019,5,2019-05-01,6,6,South
+Tamil Nadu,2019,6,2019-06-01,10,7,South
+Tamil Nadu,2019,7,2019-07-01,13,8,South
+Tamil Nadu,2019,8,2019-08-01,24,10,South
+Tamil Nadu,2019,9,2019-09-01,18,11,South
+Tamil Nadu,2019,10,2019-10-01,31,12,South
+Tamil Nadu,2019,11,2019-11-01,25,13,South
+Tamil Nadu,2019,12,2019-12-01,43,15,South
+Tamil Nadu,2020,1,2020-01-01,53,16,South
+Tamil Nadu,2020,2,2020-02-01,76,17,South
+Tamil Nadu,2020,3,2020-03-01,78,18,South
+Tamil Nadu,2020,4,2020-04-01,76,20,South
+Tamil Nadu,2020,5,2020-05-01,108,21,South
+Tamil Nadu,2020,6,2020-06-01,108,22,South
+Tamil Nadu,2020,7,2020-07-01,120,23,South
+Tamil Nadu,2020,8,2020-08-01,114,25,South
+Tamil Nadu,2020,9,2020-09-01,129,26,South
+Tamil Nadu,2020,10,2020-10-01,145,27,South
+Tamil Nadu,2020,11,2020-11-01,177,28,South
+Tamil Nadu,2020,12,2020-12-01,193,30,South
+Tamil Nadu,2021,1,2021-01-01,246,31,South
+Tamil Nadu,2021,2,2021-02-01,235,32,South
+Tamil Nadu,2021,3,2021-03-01,164,33,South
+Tamil Nadu,2021,4,2021-04-01,269,35,South
+Tamil Nadu,2021,5,2021-05-01,231,36,South
+Tamil Nadu,2021,6,2021-06-01,265,37,South
+Tamil Nadu,2021,7,2021-07-01,289,38,South
+Tamil Nadu,2021,8,2021-08-01,314,40,South
+Tamil Nadu,2021,9,2021-09-01,303,41,South
+Tamil Nadu,2021,10,2021-10-01,394,42,South
+Tamil Nadu,2021,11,2021-11-01,339,43,South
+Tamil Nadu,2021,12,2021-12-01,450,45,South
+Tamil Nadu,2022,1,2022-01-01,578,46,South
+Tamil Nadu,2022,2,2022-02-01,404,47,South
+Tamil Nadu,2022,3,2022-03-01,489,48,South
+Tamil Nadu,2022,4,2022-04-01,371,50,South
+Tamil Nadu,2022,5,2022-05-01,540,51,South
+Tamil Nadu,2022,6,2022-06-01,633,52,South
+Tamil Nadu,2022,7,2022-07-01,669,53,South
+Tamil Nadu,2022,8,2022-08-01,651,54,South
+Tamil Nadu,2022,9,2022-09-01,747,56,South
+Tamil Nadu,2022,10,2022-10-01,920,57,South
+Tamil Nadu,2022,11,2022-11-01,887,58,South
+Tamil Nadu,2022,12,2022-12-01,719,60,South
+Tamil Nadu,2023,1,2023-01-01,660,61,South
+Tamil Nadu,2023,2,2023-02-01,792,62,South
+Tamil Nadu,2023,3,2023-03-01,768,63,South
+Tamil Nadu,2023,4,2023-04-01,950,65,South
+Tamil Nadu,2023,5,2023-05-01,803,66,South
+Tamil Nadu,2023,6,2023-06-01,963,67,South
+Tamil Nadu,2023,7,2023-07-01,1109,68,South
+Tamil Nadu,2023,8,2023-08-01,1032,70,South
+Tamil Nadu,2023,9,2023-09-01,960,71,South
+Tamil Nadu,2023,10,2023-10-01,1279,72,South
+Tamil Nadu,2023,11,2023-11-01,898,73,South
+Tamil Nadu,2023,12,2023-12-01,1152,75,South
+Gujarat,2019,1,2019-01-01,0,1,West
+Gujarat,2019,2,2019-02-01,1,2,West
+Gujarat,2019,3,2019-03-01,2,3,West
+Gujarat,2019,4,2019-04-01,5,4,West
+Gujarat,2019,5,2019-05-01,7,5,West
+Gujarat,2019,6,2019-06-01,10,7,West
+Gujarat,2019,7,2019-07-01,14,8,West
+Gujarat,2019,8,2019-08-01,18,9,West
+Gujarat,2019,9,2019-09-01,27,10,West
+Gujarat,2019,10,2019-10-01,28,11,West
+Gujarat,2019,11,2019-11-01,40,12,West
+Gujarat,2019,12,2019-12-01,44,14,West
+Gujarat,2020,1,2020-01-01,48,15,West
+Gujarat,2020,2,2020-02-01,64,16,West
+Gujarat,2020,3,2020-03-01,62,17,West
+Gujarat,2020,4,2020-04-01,84,18,West
+Gujarat,2020,5,2020-05-01,90,19,West
+Gujarat,2020,6,2020-06-01,91,21,West
+Gujarat,2020,7,2020-07-01,117,22,West
+Gujarat,2020,8,2020-08-01,130,23,West
+Gujarat,2020,9,2020-09-01,153,24,West
+Gujarat,2020,10,2020-10-01,165,25,West
+Gujarat,2020,11,2020-11-01,171,26,West
+Gujarat,2020,12,2020-12-01,152,28,West
+Gujarat,2021,1,2021-01-01,247,29,West
+Gujarat,2021,2,2021-02-01,171,30,West
+Gujarat,2021,3,2021-03-01,248,31,West
+Gujarat,2021,4,2021-04-01,251,32,West
+Gujarat,2021,5,2021-05-01,220,33,West
+Gujarat,2021,6,2021-06-01,270,35,West
+Gujarat,2021,7,2021-07-01,290,36,West
+Gujarat,2021,8,2021-08-01,361,37,West
+Gujarat,2021,9,2021-09-01,304,38,West
+Gujarat,2021,10,2021-10-01,342,39,West
+Gujarat,2021,11,2021-11-01,269,40,West
+Gujarat,2021,12,2021-12-01,478,42,West
+Gujarat,2022,1,2022-01-01,364,43,West
+Gujarat,2022,2,2022-02-01,458,44,West
+Gujarat,2022,3,2022-03-01,459,45,West
+Gujarat,2022,4,2022-04-01,483,46,West
+Gujarat,2022,5,2022-05-01,563,47,West
+Gujarat,2022,6,2022-06-01,647,49,West
+Gujarat,2022,7,2022-07-01,582,50,West
+Gujarat,2022,8,2022-08-01,638,51,West
+Gujarat,2022,9,2022-09-01,643,52,West
+Gujarat,2022,10,2022-10-01,725,53,West
+Gujarat,2022,11,2022-11-01,637,54,West
+Gujarat,2022,12,2022-12-01,794,56,West
+Gujarat,2023,1,2023-01-01,831,57,West
+Gujarat,2023,2,2023-02-01,863,58,West
+Gujarat,2023,3,2023-03-01,731,59,West
+Gujarat,2023,4,2023-04-01,809,60,West
+Gujarat,2023,5,2023-05-01,882,61,West
+Gujarat,2023,6,2023-06-01,744,63,West
+Gujarat,2023,7,2023-07-01,1101,64,West
+Gujarat,2023,8,2023-08-01,956,65,West
+Gujarat,2023,9,2023-09-01,1026,66,West
+Gujarat,2023,10,2023-10-01,956,67,West
+Gujarat,2023,11,2023-11-01,894,68,West
+Gujarat,2023,12,2023-12-01,1020,70,West
+Uttar Pradesh,2019,1,2019-01-01,0,0,North
+Uttar Pradesh,2019,2,2019-02-01,0,1,North
+Uttar Pradesh,2019,3,2019-03-01,1,2,North
+Uttar Pradesh,2019,4,2019-04-01,2,3,North
+Uttar Pradesh,2019,5,2019-05-01,3,4,North
+Uttar Pradesh,2019,6,2019-06-01,6,5,North
+Uttar Pradesh,2019,7,2019-07-01,9,6,North
+Uttar Pradesh,2019,8,2019-08-01,11,7,North
+Uttar Pradesh,2019,9,2019-09-01,14,8,North
+Uttar Pradesh,2019,10,2019-10-01,17,9,North
+Uttar Pradesh,2019,11,2019-11-01,16,10,North
+Uttar Pradesh,2019,12,2019-12-01,20,11,North
+Uttar Pradesh,2020,1,2020-01-01,29,11,North
+Uttar Pradesh,2020,2,2020-02-01,32,12,North
+Uttar Pradesh,2020,3,2020-03-01,39,13,North
+Uttar Pradesh,2020,4,2020-04-01,51,14,North
+Uttar Pradesh,2020,5,2020-05-01,52,15,North
+Uttar Pradesh,2020,6,2020-06-01,62,16,North
+Uttar Pradesh,2020,7,2020-07-01,60,17,North
+Uttar Pradesh,2020,8,2020-08-01,60,18,North
+Uttar Pradesh,2020,9,2020-09-01,72,19,North
+Uttar Pradesh,2020,10,2020-10-01,72,20,North
+Uttar Pradesh,2020,11,2020-11-01,104,21,North
+Uttar Pradesh,2020,12,2020-12-01,105,22,North
+Uttar Pradesh,2021,1,2021-01-01,110,22,North
+Uttar Pradesh,2021,2,2021-02-01,129,23,North
+Uttar Pradesh,2021,3,2021-03-01,92,24,North
+Uttar Pradesh,2021,4,2021-04-01,139,25,North
+Uttar Pradesh,2021,5,2021-05-01,118,26,North
+Uttar Pradesh,2021,6,2021-06-01,149,27,North
+Uttar Pradesh,2021,7,2021-07-01,154,28,North
+Uttar Pradesh,2021,8,2021-08-01,184,29,North
+Uttar Pradesh,2021,9,2021-09-01,186,30,North
+Uttar Pradesh,2021,10,2021-10-01,223,31,North
+Uttar Pradesh,2021,11,2021-11-01,189,32,North
+Uttar Pradesh,2021,12,2021-12-01,234,33,North
+Uttar Pradesh,2022,1,2022-01-01,232,33,North
+Uttar Pradesh,2022,2,2022-02-01,193,34,North
+Uttar Pradesh,2022,3,2022-03-01,225,35,North
+Uttar Pradesh,2022,4,2022-04-01,261,36,North
+Uttar Pradesh,2022,5,2022-05-01,317,37,North
+Uttar Pradesh,2022,6,2022-06-01,310,38,North
+Uttar Pradesh,2022,7,2022-07-01,264,39,North
+Uttar Pradesh,2022,8,2022-08-01,317,40,North
+Uttar Pradesh,2022,9,2022-09-01,419,41,North
+Uttar Pradesh,2022,10,2022-10-01,357,42,North
+Uttar Pradesh,2022,11,2022-11-01,353,43,North
+Uttar Pradesh,2022,12,2022-12-01,406,44,North
+Uttar Pradesh,2023,1,2023-01-01,436,44,North
+Uttar Pradesh,2023,2,2023-02-01,393,45,North
+Uttar Pradesh,2023,3,2023-03-01,459,46,North
+Uttar Pradesh,2023,4,2023-04-01,432,47,North
+Uttar Pradesh,2023,5,2023-05-01,508,48,North
+Uttar Pradesh,2023,6,2023-06-01,495,49,North
+Uttar Pradesh,2023,7,2023-07-01,533,50,North
+Uttar Pradesh,2023,8,2023-08-01,475,51,North
+Uttar Pradesh,2023,9,2023-09-01,488,52,North
+Uttar Pradesh,2023,10,2023-10-01,624,53,North
+Uttar Pradesh,2023,11,2023-11-01,574,54,North
+Uttar Pradesh,2023,12,2023-12-01,620,55,North
+Rajasthan,2019,1,2019-01-01,0,0,West
+Rajasthan,2019,2,2019-02-01,0,1,West
+Rajasthan,2019,3,2019-03-01,1,2,West
+Rajasthan,2019,4,2019-04-01,2,3,West
+Rajasthan,2019,5,2019-05-01,3,3,West
+Rajasthan,2019,6,2019-06-01,5,4,West
+Rajasthan,2019,7,2019-07-01,6,5,West
+Rajasthan,2019,8,2019-08-01,10,6,West
+Rajasthan,2019,9,2019-09-01,11,6,West
+Rajasthan,2019,10,2019-10-01,12,7,West
+Rajasthan,2019,11,2019-11-01,17,8,West
+Rajasthan,2019,12,2019-12-01,19,9,West
+Rajasthan,2020,1,2020-01-01,24,9,West
+Rajasthan,2020,2,2020-02-01,27,10,West
+Rajasthan,2020,3,2020-03-01,31,11,West
+Rajasthan,2020,4,2020-04-01,31,12,West
+Rajasthan,2020,5,2020-05-01,44,12,West
+Rajasthan,2020,6,2020-06-01,38,13,West
+Rajasthan,2020,7,2020-07-01,43,14,West
+Rajasthan,2020,8,2020-08-01,58,15,West
+Rajasthan,2020,9,2020-09-01,73,15,West
+Rajasthan,2020,10,2020-10-01,64,16,West
+Rajasthan,2020,11,2020-11-01,79,17,West
+Rajasthan,2020,12,2020-12-01,90,18,West
+Rajasthan,2021,1,2021-01-01,95,18,West
+Rajasthan,2021,2,2021-02-01,90,19,West
+Rajasthan,2021,3,2021-03-01,87,20,West
+Rajasthan,2021,4,2021-04-01,80,21,West
+Rajasthan,2021,5,2021-05-01,113,21,West
+Rajasthan,2021,6,2021-06-01,142,22,West
+Rajasthan,2021,7,2021-07-01,115,23,West
+Rajasthan,2021,8,2021-08-01,154,24,West
+Rajasthan,2021,9,2021-09-01,134,24,West
+Rajasthan,2021,10,2021-10-01,162,25,West
+Rajasthan,2021,11,2021-11-01,184,26,West
+Rajasthan,2021,12,2021-12-01,165,27,West
+Rajasthan,2022,1,2022-01-01,194,27,West
+Rajasthan,2022,2,2022-02-01,190,28,West
+Rajasthan,2022,3,2022-03-01,229,29,West
+Rajasthan,2022,4,2022-04-01,228,30,West
+Rajasthan,2022,5,2022-05-01,235,30,West
+Rajasthan,2022,6,2022-06-01,290,31,West
+Rajasthan,2022,7,2022-07-01,277,32,West
+Rajasthan,2022,8,2022-08-01,246,33,West
+Rajasthan,2022,9,2022-09-01,278,33,West
+Rajasthan,2022,10,2022-10-01,291,34,West
+Rajasthan,2022,11,2022-11-01,309,35,West
+Rajasthan,2022,12,2022-12-01,416,36,West
+Rajasthan,2023,1,2023-01-01,348,36,West
+Rajasthan,2023,2,2023-02-01,262,37,West
+Rajasthan,2023,3,2023-03-01,337,38,West
+Rajasthan,2023,4,2023-04-01,288,39,West
+Rajasthan,2023,5,2023-05-01,374,39,West
+Rajasthan,2023,6,2023-06-01,308,40,West
+Rajasthan,2023,7,2023-07-01,376,41,West
+Rajasthan,2023,8,2023-08-01,356,42,West
+Rajasthan,2023,9,2023-09-01,472,42,West
+Rajasthan,2023,10,2023-10-01,467,43,West
+Rajasthan,2023,11,2023-11-01,501,44,West
+Rajasthan,2023,12,2023-12-01,493,45,West
+Telangana,2019,1,2019-01-01,0,1,South
+Telangana,2019,2,2019-02-01,1,2,South
+Telangana,2019,3,2019-03-01,2,3,South
+Telangana,2019,4,2019-04-01,4,4,South
+Telangana,2019,5,2019-05-01,5,5,South
+Telangana,2019,6,2019-06-01,7,6,South
+Telangana,2019,7,2019-07-01,10,7,South
+Telangana,2019,8,2019-08-01,16,8,South
+Telangana,2019,9,2019-09-01,22,9,South
+Telangana,2019,10,2019-10-01,25,10,South
+Telangana,2019,11,2019-11-01,33,11,South
+Telangana,2019,12,2019-12-01,39,12,South
+Telangana,2020,1,2020-01-01,44,13,South
+Telangana,2020,2,2020-02-01,45,14,South
+Telangana,2020,3,2020-03-01,57,15,South
+Telangana,2020,4,2020-04-01,57,16,South
+Telangana,2020,5,2020-05-01,72,17,South
+Telangana,2020,6,2020-06-01,84,18,South
+Telangana,2020,7,2020-07-01,108,19,South
+Telangana,2020,8,2020-08-01,84,20,South
+Telangana,2020,9,2020-09-01,116,21,South
+Telangana,2020,10,2020-10-01,142,22,South
+Telangana,2020,11,2020-11-01,144,23,South
+Telangana,2020,12,2020-12-01,158,24,South
+Telangana,2021,1,2021-01-01,167,25,South
+Telangana,2021,2,2021-02-01,195,26,South
+Telangana,2021,3,2021-03-01,158,27,South
+Telangana,2021,4,2021-04-01,163,28,South
+Telangana,2021,5,2021-05-01,210,29,South
+Telangana,2021,6,2021-06-01,166,30,South
+Telangana,2021,7,2021-07-01,275,31,South
+Telangana,2021,8,2021-08-01,293,32,South
+Telangana,2021,9,2021-09-01,258,33,South
+Telangana,2021,10,2021-10-01,276,34,South
+Telangana,2021,11,2021-11-01,303,35,South
+Telangana,2021,12,2021-12-01,326,36,South
+Telangana,2022,1,2022-01-01,347,37,South
+Telangana,2022,2,2022-02-01,385,38,South
+Telangana,2022,3,2022-03-01,372,39,South
+Telangana,2022,4,2022-04-01,445,40,South
+Telangana,2022,5,2022-05-01,442,41,South
+Telangana,2022,6,2022-06-01,408,42,South
+Telangana,2022,7,2022-07-01,536,43,South
+Telangana,2022,8,2022-08-01,405,44,South
+Telangana,2022,9,2022-09-01,500,45,South
+Telangana,2022,10,2022-10-01,590,46,South
+Telangana,2022,11,2022-11-01,504,47,South
+Telangana,2022,12,2022-12-01,597,48,South
+Telangana,2023,1,2023-01-01,639,49,South
+Telangana,2023,2,2023-02-01,560,50,South
+Telangana,2023,3,2023-03-01,644,51,South
+Telangana,2023,4,2023-04-01,663,52,South
+Telangana,2023,5,2023-05-01,655,53,South
+Telangana,2023,6,2023-06-01,930,54,South
+Telangana,2023,7,2023-07-01,686,55,South
+Telangana,2023,8,2023-08-01,878,56,South
+Telangana,2023,9,2023-09-01,773,57,South
+Telangana,2023,10,2023-10-01,731,58,South
+Telangana,2023,11,2023-11-01,880,59,South
+Telangana,2023,12,2023-12-01,970,60,South
+Andhra Pradesh,2019,1,2019-01-01,0,0,South
+Andhra Pradesh,2019,2,2019-02-01,0,1,South
+Andhra Pradesh,2019,3,2019-03-01,1,2,South
+Andhra Pradesh,2019,4,2019-04-01,2,2,South
+Andhra Pradesh,2019,5,2019-05-01,2,3,South
+Andhra Pradesh,2019,6,2019-06-01,4,4,South
+Andhra Pradesh,2019,7,2019-07-01,5,4,South
+Andhra Pradesh,2019,8,2019-08-01,8,5,South
+Andhra Pradesh,2019,9,2019-09-01,8,6,South
+Andhra Pradesh,2019,10,2019-10-01,16,6,South
+Andhra Pradesh,2019,11,2019-11-01,16,7,South
+Andhra Pradesh,2019,12,2019-12-01,14,8,South
+Andhra Pradesh,2020,1,2020-01-01,19,8,South
+Andhra Pradesh,2020,2,2020-02-01,26,9,South
+Andhra Pradesh,2020,3,2020-03-01,32,10,South
+Andhra Pradesh,2020,4,2020-04-01,27,10,South
+Andhra Pradesh,2020,5,2020-05-01,39,11,South
+Andhra Pradesh,2020,6,2020-06-01,31,12,South
+Andhra Pradesh,2020,7,2020-07-01,44,12,South
+Andhra Pradesh,2020,8,2020-08-01,56,13,South
+Andhra Pradesh,2020,9,2020-09-01,51,14,South
+Andhra Pradesh,2020,10,2020-10-01,49,14,South
+Andhra Pradesh,2020,11,2020-11-01,67,15,South
+Andhra Pradesh,2020,12,2020-12-01,66,16,South
+Andhra Pradesh,2021,1,2021-01-01,84,16,South
+Andhra Pradesh,2021,2,2021-02-01,75,17,South
+Andhra Pradesh,2021,3,2021-03-01,82,18,South
+Andhra Pradesh,2021,4,2021-04-01,74,18,South
+Andhra Pradesh,2021,5,2021-05-01,107,19,South
+Andhra Pradesh,2021,6,2021-06-01,110,20,South
+Andhra Pradesh,2021,7,2021-07-01,102,20,South
+Andhra Pradesh,2021,8,2021-08-01,130,21,South
+Andhra Pradesh,2021,9,2021-09-01,152,22,South
+Andhra Pradesh,2021,10,2021-10-01,140,22,South
+Andhra Pradesh,2021,11,2021-11-01,158,23,South
+Andhra Pradesh,2021,12,2021-12-01,167,24,South
+Andhra Pradesh,2022,1,2022-01-01,146,24,South
+Andhra Pradesh,2022,2,2022-02-01,225,25,South
+Andhra Pradesh,2022,3,2022-03-01,179,26,South
+Andhra Pradesh,2022,4,2022-04-01,215,26,South
+Andhra Pradesh,2022,5,2022-05-01,229,27,South
+Andhra Pradesh,2022,6,2022-06-01,216,28,South
+Andhra Pradesh,2022,7,2022-07-01,247,28,South
+Andhra Pradesh,2022,8,2022-08-01,249,29,South
+Andhra Pradesh,2022,9,2022-09-01,210,30,South
+Andhra Pradesh,2022,10,2022-10-01,253,30,South
+Andhra Pradesh,2022,11,2022-11-01,255,31,South
+Andhra Pradesh,2022,12,2022-12-01,272,32,South
+Andhra Pradesh,2023,1,2023-01-01,253,32,South
+Andhra Pradesh,2023,2,2023-02-01,354,33,South
+Andhra Pradesh,2023,3,2023-03-01,387,34,South
+Andhra Pradesh,2023,4,2023-04-01,377,34,South
+Andhra Pradesh,2023,5,2023-05-01,404,35,South
+Andhra Pradesh,2023,6,2023-06-01,349,36,South
+Andhra Pradesh,2023,7,2023-07-01,349,36,South
+Andhra Pradesh,2023,8,2023-08-01,355,37,South
+Andhra Pradesh,2023,9,2023-09-01,437,38,South
+Andhra Pradesh,2023,10,2023-10-01,431,38,South
+Andhra Pradesh,2023,11,2023-11-01,431,39,South
+Andhra Pradesh,2023,12,2023-12-01,519,40,South
+West Bengal,2019,1,2019-01-01,0,0,East
+West Bengal,2019,2,2019-02-01,0,1,East
+West Bengal,2019,3,2019-03-01,0,1,East
+West Bengal,2019,4,2019-04-01,1,2,East
+West Bengal,2019,5,2019-05-01,2,2,East
+West Bengal,2019,6,2019-06-01,3,3,East
+West Bengal,2019,7,2019-07-01,5,4,East
+West Bengal,2019,8,2019-08-01,6,4,East
+West Bengal,2019,9,2019-09-01,7,5,East
+West Bengal,2019,10,2019-10-01,7,5,East
+West Bengal,2019,11,2019-11-01,8,6,East
+West Bengal,2019,12,2019-12-01,11,7,East
+West Bengal,2020,1,2020-01-01,15,7,East
+West Bengal,2020,2,2020-02-01,19,8,East
+West Bengal,2020,3,2020-03-01,19,8,East
+West Bengal,2020,4,2020-04-01,24,9,East
+West Bengal,2020,5,2020-05-01,23,9,East
+West Bengal,2020,6,2020-06-01,29,10,East
+West Bengal,2020,7,2020-07-01,33,11,East
+West Bengal,2020,8,2020-08-01,25,11,East
+West Bengal,2020,9,2020-09-01,34,12,East
+West Bengal,2020,10,2020-10-01,44,12,East
+West Bengal,2020,11,2020-11-01,45,13,East
+West Bengal,2020,12,2020-12-01,41,14,East
+West Bengal,2021,1,2021-01-01,36,14,East
+West Bengal,2021,2,2021-02-01,53,15,East
+West Bengal,2021,3,2021-03-01,60,15,East
+West Bengal,2021,4,2021-04-01,58,16,East
+West Bengal,2021,5,2021-05-01,71,16,East
+West Bengal,2021,6,2021-06-01,79,17,East
+West Bengal,2021,7,2021-07-01,86,18,East
+West Bengal,2021,8,2021-08-01,61,18,East
+West Bengal,2021,9,2021-09-01,76,19,East
+West Bengal,2021,10,2021-10-01,92,19,East
+West Bengal,2021,11,2021-11-01,109,20,East
+West Bengal,2021,12,2021-12-01,114,21,East
+West Bengal,2022,1,2022-01-01,120,21,East
+West Bengal,2022,2,2022-02-01,114,22,East
+West Bengal,2022,3,2022-03-01,121,22,East
+West Bengal,2022,4,2022-04-01,121,23,East
+West Bengal,2022,5,2022-05-01,152,23,East
+West Bengal,2022,6,2022-06-01,130,24,East
+West Bengal,2022,7,2022-07-01,169,25,East
+West Bengal,2022,8,2022-08-01,165,25,East
+West Bengal,2022,9,2022-09-01,167,26,East
+West Bengal,2022,10,2022-10-01,162,26,East
+West Bengal,2022,11,2022-11-01,154,27,East
+West Bengal,2022,12,2022-12-01,177,28,East
+West Bengal,2023,1,2023-01-01,192,28,East
+West Bengal,2023,2,2023-02-01,149,29,East
+West Bengal,2023,3,2023-03-01,211,29,East
+West Bengal,2023,4,2023-04-01,250,30,East
+West Bengal,2023,5,2023-05-01,250,30,East
+West Bengal,2023,6,2023-06-01,228,31,East
+West Bengal,2023,7,2023-07-01,253,32,East
+West Bengal,2023,8,2023-08-01,243,32,East
+West Bengal,2023,9,2023-09-01,275,33,East
+West Bengal,2023,10,2023-10-01,332,33,East
+West Bengal,2023,11,2023-11-01,323,34,East
+West Bengal,2023,12,2023-12-01,318,35,East
+Madhya Pradesh,2019,1,2019-01-01,0,0,Central
+Madhya Pradesh,2019,2,2019-02-01,0,1,Central
+Madhya Pradesh,2019,3,2019-03-01,0,1,Central
+Madhya Pradesh,2019,4,2019-04-01,1,2,Central
+Madhya Pradesh,2019,5,2019-05-01,2,2,Central
+Madhya Pradesh,2019,6,2019-06-01,3,3,Central
+Madhya Pradesh,2019,7,2019-07-01,4,3,Central
+Madhya Pradesh,2019,8,2019-08-01,5,4,Central
+Madhya Pradesh,2019,9,2019-09-01,6,4,Central
+Madhya Pradesh,2019,10,2019-10-01,8,5,Central
+Madhya Pradesh,2019,11,2019-11-01,8,5,Central
+Madhya Pradesh,2019,12,2019-12-01,10,6,Central
+Madhya Pradesh,2020,1,2020-01-01,13,6,Central
+Madhya Pradesh,2020,2,2020-02-01,15,7,Central
+Madhya Pradesh,2020,3,2020-03-01,13,7,Central
+Madhya Pradesh,2020,4,2020-04-01,20,8,Central
+Madhya Pradesh,2020,5,2020-05-01,24,8,Central
+Madhya Pradesh,2020,6,2020-06-01,24,9,Central
+Madhya Pradesh,2020,7,2020-07-01,36,9,Central
+Madhya Pradesh,2020,8,2020-08-01,28,10,Central
+Madhya Pradesh,2020,9,2020-09-01,32,10,Central
+Madhya Pradesh,2020,10,2020-10-01,35,11,Central
+Madhya Pradesh,2020,11,2020-11-01,40,11,Central
+Madhya Pradesh,2020,12,2020-12-01,43,12,Central
+Madhya Pradesh,2021,1,2021-01-01,40,12,Central
+Madhya Pradesh,2021,2,2021-02-01,49,13,Central
+Madhya Pradesh,2021,3,2021-03-01,56,13,Central
+Madhya Pradesh,2021,4,2021-04-01,69,14,Central
+Madhya Pradesh,2021,5,2021-05-01,82,14,Central
+Madhya Pradesh,2021,6,2021-06-01,81,15,Central
+Madhya Pradesh,2021,7,2021-07-01,67,15,Central
+Madhya Pradesh,2021,8,2021-08-01,72,16,Central
+Madhya Pradesh,2021,9,2021-09-01,83,16,Central
+Madhya Pradesh,2021,10,2021-10-01,109,17,Central
+Madhya Pradesh,2021,11,2021-11-01,93,17,Central
+Madhya Pradesh,2021,12,2021-12-01,84,18,Central
+Madhya Pradesh,2022,1,2022-01-01,100,18,Central
+Madhya Pradesh,2022,2,2022-02-01,122,19,Central
+Madhya Pradesh,2022,3,2022-03-01,128,19,Central
+Madhya Pradesh,2022,4,2022-04-01,121,20,Central
+Madhya Pradesh,2022,5,2022-05-01,141,20,Central
+Madhya Pradesh,2022,6,2022-06-01,99,21,Central
+Madhya Pradesh,2022,7,2022-07-01,145,21,Central
+Madhya Pradesh,2022,8,2022-08-01,166,22,Central
+Madhya Pradesh,2022,9,2022-09-01,141,22,Central
+Madhya Pradesh,2022,10,2022-10-01,148,23,Central
+Madhya Pradesh,2022,11,2022-11-01,133,23,Central
+Madhya Pradesh,2022,12,2022-12-01,213,24,Central
+Madhya Pradesh,2023,1,2023-01-01,170,24,Central
+Madhya Pradesh,2023,2,2023-02-01,200,25,Central
+Madhya Pradesh,2023,3,2023-03-01,216,25,Central
+Madhya Pradesh,2023,4,2023-04-01,248,26,Central
+Madhya Pradesh,2023,5,2023-05-01,214,26,Central
+Madhya Pradesh,2023,6,2023-06-01,212,27,Central
+Madhya Pradesh,2023,7,2023-07-01,240,27,Central
+Madhya Pradesh,2023,8,2023-08-01,281,28,Central
+Madhya Pradesh,2023,9,2023-09-01,247,28,Central
+Madhya Pradesh,2023,10,2023-10-01,231,29,Central
+Madhya Pradesh,2023,11,2023-11-01,220,29,Central
+Madhya Pradesh,2023,12,2023-12-01,238,30,Central
+Kerala,2019,1,2019-01-01,0,0,South
+Kerala,2019,2,2019-02-01,0,1,South
+Kerala,2019,3,2019-03-01,1,2,South
+Kerala,2019,4,2019-04-01,2,3,South
+Kerala,2019,5,2019-05-01,4,4,South
+Kerala,2019,6,2019-06-01,6,5,South
+Kerala,2019,7,2019-07-01,9,5,South
+Kerala,2019,8,2019-08-01,14,6,South
+Kerala,2019,9,2019-09-01,18,7,South
+Kerala,2019,10,2019-10-01,15,8,South
+Kerala,2019,11,2019-11-01,24,9,South
+Kerala,2019,12,2019-12-01,25,10,South
+Kerala,2020,1,2020-01-01,31,10,South
+Kerala,2020,2,2020-02-01,39,11,South
+Kerala,2020,3,2020-03-01,42,12,South
+Kerala,2020,4,2020-04-01,51,13,South
+Kerala,2020,5,2020-05-01,60,14,South
+Kerala,2020,6,2020-06-01,65,15,South
+Kerala,2020,7,2020-07-01,64,15,South
+Kerala,2020,8,2020-08-01,71,16,South
+Kerala,2020,9,2020-09-01,70,17,South
+Kerala,2020,10,2020-10-01,84,18,South
+Kerala,2020,11,2020-11-01,127,19,South
+Kerala,2020,12,2020-12-01,101,20,South
+Kerala,2021,1,2021-01-01,104,20,South
+Kerala,2021,2,2021-02-01,136,21,South
+Kerala,2021,3,2021-03-01,139,22,South
+Kerala,2021,4,2021-04-01,148,23,South
+Kerala,2021,5,2021-05-01,191,24,South
+Kerala,2021,6,2021-06-01,186,25,South
+Kerala,2021,7,2021-07-01,174,25,South
+Kerala,2021,8,2021-08-01,188,26,South
+Kerala,2021,9,2021-09-01,198,27,South
+Kerala,2021,10,2021-10-01,248,28,South
+Kerala,2021,11,2021-11-01,229,29,South
+Kerala,2021,12,2021-12-01,197,30,South
+Kerala,2022,1,2022-01-01,264,30,South
+Kerala,2022,2,2022-02-01,228,31,South
+Kerala,2022,3,2022-03-01,373,32,South
+Kerala,2022,4,2022-04-01,275,33,South
+Kerala,2022,5,2022-05-01,320,34,South
+Kerala,2022,6,2022-06-01,353,35,South
+Kerala,2022,7,2022-07-01,347,35,South
+Kerala,2022,8,2022-08-01,363,36,South
+Kerala,2022,9,2022-09-01,413,37,South
+Kerala,2022,10,2022-10-01,486,38,South
+Kerala,2022,11,2022-11-01,469,39,South
+Kerala,2022,12,2022-12-01,527,40,South
+Kerala,2023,1,2023-01-01,408,40,South
+Kerala,2023,2,2023-02-01,504,41,South
+Kerala,2023,3,2023-03-01,515,42,South
+Kerala,2023,4,2023-04-01,547,43,South
+Kerala,2023,5,2023-05-01,636,44,South
+Kerala,2023,6,2023-06-01,551,45,South
+Kerala,2023,7,2023-07-01,559,45,South
+Kerala,2023,8,2023-08-01,648,46,South
+Kerala,2023,9,2023-09-01,496,47,South
+Kerala,2023,10,2023-10-01,635,48,South
+Kerala,2023,11,2023-11-01,665,49,South
+Kerala,2023,12,2023-12-01,622,50,South
+Punjab,2019,1,2019-01-01,0,0,North
+Punjab,2019,2,2019-02-01,0,0,North
+Punjab,2019,3,2019-03-01,0,1,North
+Punjab,2019,4,2019-04-01,1,1,North
+Punjab,2019,5,2019-05-01,2,2,North
+Punjab,2019,6,2019-06-01,2,2,North
+Punjab,2019,7,2019-07-01,3,3,North
+Punjab,2019,8,2019-08-01,4,3,North
+Punjab,2019,9,2019-09-01,5,4,North
+Punjab,2019,10,2019-10-01,6,4,North
+Punjab,2019,11,2019-11-01,6,5,North
+Punjab,2019,12,2019-12-01,10,5,North
+Punjab,2020,1,2020-01-01,10,6,North
+Punjab,2020,2,2020-02-01,15,6,North
+Punjab,2020,3,2020-03-01,17,7,North
+Punjab,2020,4,2020-04-01,17,7,North
+Punjab,2020,5,2020-05-01,17,7,North
+Punjab,2020,6,2020-06-01,23,8,North
+Punjab,2020,7,2020-07-01,22,8,North
+Punjab,2020,8,2020-08-01,25,9,North
+Punjab,2020,9,2020-09-01,27,9,North
+Punjab,2020,10,2020-10-01,33,10,North
+Punjab,2020,11,2020-11-01,41,10,North
+Punjab,2020,12,2020-12-01,39,11,North
+Punjab,2021,1,2021-01-01,41,11,North
+Punjab,2021,2,2021-02-01,38,12,North
+Punjab,2021,3,2021-03-01,53,12,North
+Punjab,2021,4,2021-04-01,49,13,North
+Punjab,2021,5,2021-05-01,59,13,North
+Punjab,2021,6,2021-06-01,59,14,North
+Punjab,2021,7,2021-07-01,73,14,North
+Punjab,2021,8,2021-08-01,69,14,North
+Punjab,2021,9,2021-09-01,75,15,North
+Punjab,2021,10,2021-10-01,84,15,North
+Punjab,2021,11,2021-11-01,106,16,North
+Punjab,2021,12,2021-12-01,99,16,North
+Punjab,2022,1,2022-01-01,94,17,North
+Punjab,2022,2,2022-02-01,100,17,North
+Punjab,2022,3,2022-03-01,98,18,North
+Punjab,2022,4,2022-04-01,98,18,North
+Punjab,2022,5,2022-05-01,108,19,North
+Punjab,2022,6,2022-06-01,111,19,North
+Punjab,2022,7,2022-07-01,138,20,North
+Punjab,2022,8,2022-08-01,117,20,North
+Punjab,2022,9,2022-09-01,163,21,North
+Punjab,2022,10,2022-10-01,160,21,North
+Punjab,2022,11,2022-11-01,153,21,North
+Punjab,2022,12,2022-12-01,160,22,North
+Punjab,2023,1,2023-01-01,155,22,North
+Punjab,2023,2,2023-02-01,179,23,North
+Punjab,2023,3,2023-03-01,204,23,North
+Punjab,2023,4,2023-04-01,171,24,North
+Punjab,2023,5,2023-05-01,159,24,North
+Punjab,2023,6,2023-06-01,219,25,North
+Punjab,2023,7,2023-07-01,218,25,North
+Punjab,2023,8,2023-08-01,188,26,North
+Punjab,2023,9,2023-09-01,205,26,North
+Punjab,2023,10,2023-10-01,209,27,North
+Punjab,2023,11,2023-11-01,220,27,North
+Punjab,2023,12,2023-12-01,240,28,North
+Haryana,2019,1,2019-01-01,0,0,North
+Haryana,2019,2,2019-02-01,0,1,North
+Haryana,2019,3,2019-03-01,1,2,North
+Haryana,2019,4,2019-04-01,2,3,North
+Haryana,2019,5,2019-05-01,4,3,North
+Haryana,2019,6,2019-06-01,5,4,North
+Haryana,2019,7,2019-07-01,9,5,North
+Haryana,2019,8,2019-08-01,11,6,North
+Haryana,2019,9,2019-09-01,10,6,North
+Haryana,2019,10,2019-10-01,17,7,North
+Haryana,2019,11,2019-11-01,21,8,North
+Haryana,2019,12,2019-12-01,22,9,North
+Haryana,2020,1,2020-01-01,23,9,North
+Haryana,2020,2,2020-02-01,32,10,North
+Haryana,2020,3,2020-03-01,37,11,North
+Haryana,2020,4,2020-04-01,36,12,North
+Haryana,2020,5,2020-05-01,39,12,North
+Haryana,2020,6,2020-06-01,53,13,North
+Haryana,2020,7,2020-07-01,58,14,North
+Haryana,2020,8,2020-08-01,63,15,North
+Haryana,2020,9,2020-09-01,72,15,North
+Haryana,2020,10,2020-10-01,69,16,North
+Haryana,2020,11,2020-11-01,83,17,North
+Haryana,2020,12,2020-12-01,102,18,North
+Haryana,2021,1,2021-01-01,99,18,North
+Haryana,2021,2,2021-02-01,90,19,North
+Haryana,2021,3,2021-03-01,114,20,North
+Haryana,2021,4,2021-04-01,113,21,North
+Haryana,2021,5,2021-05-01,144,21,North
+Haryana,2021,6,2021-06-01,155,22,North
+Haryana,2021,7,2021-07-01,128,23,North
+Haryana,2021,8,2021-08-01,186,24,North
+Haryana,2021,9,2021-09-01,157,24,North
+Haryana,2021,10,2021-10-01,228,25,North
+Haryana,2021,11,2021-11-01,202,26,North
+Haryana,2021,12,2021-12-01,183,27,North
+Haryana,2022,1,2022-01-01,196,27,North
+Haryana,2022,2,2022-02-01,250,28,North
+Haryana,2022,3,2022-03-01,241,29,North
+Haryana,2022,4,2022-04-01,263,30,North
+Haryana,2022,5,2022-05-01,334,30,North
+Haryana,2022,6,2022-06-01,269,31,North
+Haryana,2022,7,2022-07-01,310,32,North
+Haryana,2022,8,2022-08-01,377,33,North
+Haryana,2022,9,2022-09-01,348,33,North
+Haryana,2022,10,2022-10-01,284,34,North
+Haryana,2022,11,2022-11-01,390,35,North
+Haryana,2022,12,2022-12-01,330,36,North
+Haryana,2023,1,2023-01-01,467,36,North
+Haryana,2023,2,2023-02-01,375,37,North
+Haryana,2023,3,2023-03-01,587,38,North
+Haryana,2023,4,2023-04-01,530,39,North
+Haryana,2023,5,2023-05-01,423,39,North
+Haryana,2023,6,2023-06-01,487,40,North
+Haryana,2023,7,2023-07-01,549,41,North
+Haryana,2023,8,2023-08-01,571,42,North
+Haryana,2023,9,2023-09-01,570,42,North
+Haryana,2023,10,2023-10-01,644,43,North
+Haryana,2023,11,2023-11-01,571,44,North
+Haryana,2023,12,2023-12-01,573,45,North
+Odisha,2019,1,2019-01-01,0,0,East
+Odisha,2019,2,2019-02-01,0,0,East
+Odisha,2019,3,2019-03-01,0,0,East
+Odisha,2019,4,2019-04-01,0,1,East
+Odisha,2019,5,2019-05-01,1,1,East
+Odisha,2019,6,2019-06-01,1,1,East
+Odisha,2019,7,2019-07-01,2,2,East
+Odisha,2019,8,2019-08-01,2,2,East
+Odisha,2019,9,2019-09-01,4,2,East
+Odisha,2019,10,2019-10-01,3,3,East
+Odisha,2019,11,2019-11-01,5,3,East
+Odisha,2019,12,2019-12-01,6,3,East
+Odisha,2020,1,2020-01-01,7,3,East
+Odisha,2020,2,2020-02-01,9,4,East
+Odisha,2020,3,2020-03-01,10,4,East
+Odisha,2020,4,2020-04-01,11,4,East
+Odisha,2020,5,2020-05-01,12,5,East
+Odisha,2020,6,2020-06-01,12,5,East
+Odisha,2020,7,2020-07-01,14,5,East
+Odisha,2020,8,2020-08-01,15,6,East
+Odisha,2020,9,2020-09-01,18,6,East
+Odisha,2020,10,2020-10-01,14,6,East
+Odisha,2020,11,2020-11-01,23,6,East
+Odisha,2020,12,2020-12-01,23,7,East
+Odisha,2021,1,2021-01-01,24,7,East
+Odisha,2021,2,2021-02-01,28,7,East
+Odisha,2021,3,2021-03-01,25,8,East
+Odisha,2021,4,2021-04-01,40,8,East
+Odisha,2021,5,2021-05-01,34,8,East
+Odisha,2021,6,2021-06-01,36,9,East
+Odisha,2021,7,2021-07-01,35,9,East
+Odisha,2021,8,2021-08-01,42,9,East
+Odisha,2021,9,2021-09-01,52,9,East
+Odisha,2021,10,2021-10-01,54,10,East
+Odisha,2021,11,2021-11-01,56,10,East
+Odisha,2021,12,2021-12-01,57,10,East
+Odisha,2022,1,2022-01-01,54,11,East
+Odisha,2022,2,2022-02-01,49,11,East
+Odisha,2022,3,2022-03-01,61,11,East
+Odisha,2022,4,2022-04-01,64,12,East
+Odisha,2022,5,2022-05-01,78,12,East
+Odisha,2022,6,2022-06-01,76,12,East
+Odisha,2022,7,2022-07-01,91,12,East
+Odisha,2022,8,2022-08-01,92,13,East
+Odisha,2022,9,2022-09-01,79,13,East
+Odisha,2022,10,2022-10-01,69,13,East
+Odisha,2022,11,2022-11-01,107,14,East
+Odisha,2022,12,2022-12-01,111,14,East
+Odisha,2023,1,2023-01-01,83,14,East
+Odisha,2023,2,2023-02-01,123,15,East
+Odisha,2023,3,2023-03-01,113,15,East
+Odisha,2023,4,2023-04-01,114,15,East
+Odisha,2023,5,2023-05-01,139,15,East
+Odisha,2023,6,2023-06-01,141,16,East
+Odisha,2023,7,2023-07-01,135,16,East
+Odisha,2023,8,2023-08-01,138,16,East
+Odisha,2023,9,2023-09-01,145,17,East
+Odisha,2023,10,2023-10-01,133,17,East
+Odisha,2023,11,2023-11-01,144,17,East
+Odisha,2023,12,2023-12-01,133,18,East
+Bihar,2019,1,2019-01-01,0,0,East
+Bihar,2019,2,2019-02-01,0,0,East
+Bihar,2019,3,2019-03-01,0,0,East
+Bihar,2019,4,2019-04-01,0,0,East
+Bihar,2019,5,2019-05-01,0,1,East
+Bihar,2019,6,2019-06-01,1,1,East
+Bihar,2019,7,2019-07-01,1,1,East
+Bihar,2019,8,2019-08-01,1,1,East
+Bihar,2019,9,2019-09-01,2,1,East
+Bihar,2019,10,2019-10-01,2,2,East
+Bihar,2019,11,2019-11-01,3,2,East
+Bihar,2019,12,2019-12-01,3,2,East
+Bihar,2020,1,2020-01-01,4,2,East
+Bihar,2020,2,2020-02-01,5,2,East
+Bihar,2020,3,2020-03-01,6,3,East
+Bihar,2020,4,2020-04-01,7,3,East
+Bihar,2020,5,2020-05-01,8,3,East
+Bihar,2020,6,2020-06-01,9,3,East
+Bihar,2020,7,2020-07-01,10,3,East
+Bihar,2020,8,2020-08-01,12,4,East
+Bihar,2020,9,2020-09-01,9,4,East
+Bihar,2020,10,2020-10-01,12,4,East
+Bihar,2020,11,2020-11-01,17,4,East
+Bihar,2020,12,2020-12-01,11,4,East
+Bihar,2021,1,2021-01-01,17,5,East
+Bihar,2021,2,2021-02-01,21,5,East
+Bihar,2021,3,2021-03-01,20,5,East
+Bihar,2021,4,2021-04-01,20,5,East
+Bihar,2021,5,2021-05-01,23,5,East
+Bihar,2021,6,2021-06-01,23,6,East
+Bihar,2021,7,2021-07-01,26,6,East
+Bihar,2021,8,2021-08-01,26,6,East
+Bihar,2021,9,2021-09-01,34,6,East
+Bihar,2021,10,2021-10-01,37,6,East
+Bihar,2021,11,2021-11-01,33,7,East
+Bihar,2021,12,2021-12-01,30,7,East
+Bihar,2022,1,2022-01-01,35,7,East
+Bihar,2022,2,2022-02-01,39,7,East
+Bihar,2022,3,2022-03-01,44,7,East
+Bihar,2022,4,2022-04-01,39,8,East
+Bihar,2022,5,2022-05-01,42,8,East
+Bihar,2022,6,2022-06-01,52,8,East
+Bihar,2022,7,2022-07-01,57,8,East
+Bihar,2022,8,2022-08-01,49,8,East
+Bihar,2022,9,2022-09-01,47,9,East
+Bihar,2022,10,2022-10-01,81,9,East
+Bihar,2022,11,2022-11-01,67,9,East
+Bihar,2022,12,2022-12-01,61,9,East
+Bihar,2023,1,2023-01-01,73,9,East
+Bihar,2023,2,2023-02-01,68,10,East
+Bihar,2023,3,2023-03-01,79,10,East
+Bihar,2023,4,2023-04-01,76,10,East
+Bihar,2023,5,2023-05-01,78,10,East
+Bihar,2023,6,2023-06-01,79,10,East
+Bihar,2023,7,2023-07-01,69,11,East
+Bihar,2023,8,2023-08-01,107,11,East
+Bihar,2023,9,2023-09-01,80,11,East
+Bihar,2023,10,2023-10-01,78,11,East
+Bihar,2023,11,2023-11-01,94,11,East
+Bihar,2023,12,2023-12-01,88,12,East
+Jharkhand,2019,1,2019-01-01,0,0,East
+Jharkhand,2019,2,2019-02-01,0,0,East
+Jharkhand,2019,3,2019-03-01,0,0,East
+Jharkhand,2019,4,2019-04-01,0,0,East
+Jharkhand,2019,5,2019-05-01,0,0,East
+Jharkhand,2019,6,2019-06-01,0,1,East
+Jharkhand,2019,7,2019-07-01,1,1,East
+Jharkhand,2019,8,2019-08-01,1,1,East
+Jharkhand,2019,9,2019-09-01,2,1,East
+Jharkhand,2019,10,2019-10-01,2,1,East
+Jharkhand,2019,11,2019-11-01,3,1,East
+Jharkhand,2019,12,2019-12-01,3,2,East
+Jharkhand,2020,1,2020-01-01,4,2,East
+Jharkhand,2020,2,2020-02-01,4,2,East
+Jharkhand,2020,3,2020-03-01,5,2,East
+Jharkhand,2020,4,2020-04-01,8,2,East
+Jharkhand,2020,5,2020-05-01,8,2,East
+Jharkhand,2020,6,2020-06-01,6,3,East
+Jharkhand,2020,7,2020-07-01,10,3,East
+Jharkhand,2020,8,2020-08-01,11,3,East
+Jharkhand,2020,9,2020-09-01,10,3,East
+Jharkhand,2020,10,2020-10-01,12,3,East
+Jharkhand,2020,11,2020-11-01,13,3,East
+Jharkhand,2020,12,2020-12-01,17,4,East
+Jharkhand,2021,1,2021-01-01,14,4,East
+Jharkhand,2021,2,2021-02-01,17,4,East
+Jharkhand,2021,3,2021-03-01,17,4,East
+Jharkhand,2021,4,2021-04-01,16,4,East
+Jharkhand,2021,5,2021-05-01,26,4,East
+Jharkhand,2021,6,2021-06-01,19,5,East
+Jharkhand,2021,7,2021-07-01,24,5,East
+Jharkhand,2021,8,2021-08-01,20,5,East
+Jharkhand,2021,9,2021-09-01,25,5,East
+Jharkhand,2021,10,2021-10-01,30,5,East
+Jharkhand,2021,11,2021-11-01,27,5,East
+Jharkhand,2021,12,2021-12-01,34,6,East
+Jharkhand,2022,1,2022-01-01,33,6,East
+Jharkhand,2022,2,2022-02-01,41,6,East
+Jharkhand,2022,3,2022-03-01,44,6,East
+Jharkhand,2022,4,2022-04-01,37,6,East
+Jharkhand,2022,5,2022-05-01,42,6,East
+Jharkhand,2022,6,2022-06-01,45,7,East
+Jharkhand,2022,7,2022-07-01,49,7,East
+Jharkhand,2022,8,2022-08-01,48,7,East
+Jharkhand,2022,9,2022-09-01,51,7,East
+Jharkhand,2022,10,2022-10-01,51,7,East
+Jharkhand,2022,11,2022-11-01,55,7,East
+Jharkhand,2022,12,2022-12-01,66,8,East
+Jharkhand,2023,1,2023-01-01,64,8,East
+Jharkhand,2023,2,2023-02-01,67,8,East
+Jharkhand,2023,3,2023-03-01,70,8,East
+Jharkhand,2023,4,2023-04-01,66,8,East
+Jharkhand,2023,5,2023-05-01,72,8,East
+Jharkhand,2023,6,2023-06-01,63,9,East
+Jharkhand,2023,7,2023-07-01,87,9,East
+Jharkhand,2023,8,2023-08-01,52,9,East
+Jharkhand,2023,9,2023-09-01,80,9,East
+Jharkhand,2023,10,2023-10-01,95,9,East
+Jharkhand,2023,11,2023-11-01,72,9,East
+Jharkhand,2023,12,2023-12-01,94,10,East
+Chhattisgarh,2019,1,2019-01-01,0,0,Central
+Chhattisgarh,2019,2,2019-02-01,0,0,Central
+Chhattisgarh,2019,3,2019-03-01,0,0,Central
+Chhattisgarh,2019,4,2019-04-01,0,0,Central
+Chhattisgarh,2019,5,2019-05-01,0,0,Central
+Chhattisgarh,2019,6,2019-06-01,0,0,Central
+Chhattisgarh,2019,7,2019-07-01,1,0,Central
+Chhattisgarh,2019,8,2019-08-01,1,1,Central
+Chhattisgarh,2019,9,2019-09-01,2,1,Central
+Chhattisgarh,2019,10,2019-10-01,2,1,Central
+Chhattisgarh,2019,11,2019-11-01,2,1,Central
+Chhattisgarh,2019,12,2019-12-01,4,1,Central
+Chhattisgarh,2020,1,2020-01-01,3,1,Central
+Chhattisgarh,2020,2,2020-02-01,3,1,Central
+Chhattisgarh,2020,3,2020-03-01,4,2,Central
+Chhattisgarh,2020,4,2020-04-01,4,2,Central
+Chhattisgarh,2020,5,2020-05-01,7,2,Central
+Chhattisgarh,2020,6,2020-06-01,8,2,Central
+Chhattisgarh,2020,7,2020-07-01,7,2,Central
+Chhattisgarh,2020,8,2020-08-01,8,2,Central
+Chhattisgarh,2020,9,2020-09-01,9,2,Central
+Chhattisgarh,2020,10,2020-10-01,9,2,Central
+Chhattisgarh,2020,11,2020-11-01,9,3,Central
+Chhattisgarh,2020,12,2020-12-01,12,3,Central
+Chhattisgarh,2021,1,2021-01-01,13,3,Central
+Chhattisgarh,2021,2,2021-02-01,14,3,Central
+Chhattisgarh,2021,3,2021-03-01,16,3,Central
+Chhattisgarh,2021,4,2021-04-01,20,3,Central
+Chhattisgarh,2021,5,2021-05-01,18,3,Central
+Chhattisgarh,2021,6,2021-06-01,20,4,Central
+Chhattisgarh,2021,7,2021-07-01,23,4,Central
+Chhattisgarh,2021,8,2021-08-01,24,4,Central
+Chhattisgarh,2021,9,2021-09-01,22,4,Central
+Chhattisgarh,2021,10,2021-10-01,25,4,Central
+Chhattisgarh,2021,11,2021-11-01,29,4,Central
+Chhattisgarh,2021,12,2021-12-01,24,4,Central
+Chhattisgarh,2022,1,2022-01-01,35,4,Central
+Chhattisgarh,2022,2,2022-02-01,37,5,Central
+Chhattisgarh,2022,3,2022-03-01,30,5,Central
+Chhattisgarh,2022,4,2022-04-01,36,5,Central
+Chhattisgarh,2022,5,2022-05-01,40,5,Central
+Chhattisgarh,2022,6,2022-06-01,36,5,Central
+Chhattisgarh,2022,7,2022-07-01,43,5,Central
+Chhattisgarh,2022,8,2022-08-01,43,5,Central
+Chhattisgarh,2022,9,2022-09-01,37,6,Central
+Chhattisgarh,2022,10,2022-10-01,49,6,Central
+Chhattisgarh,2022,11,2022-11-01,42,6,Central
+Chhattisgarh,2022,12,2022-12-01,56,6,Central
+Chhattisgarh,2023,1,2023-01-01,49,6,Central
+Chhattisgarh,2023,2,2023-02-01,54,6,Central
+Chhattisgarh,2023,3,2023-03-01,67,6,Central
+Chhattisgarh,2023,4,2023-04-01,63,6,Central
+Chhattisgarh,2023,5,2023-05-01,54,7,Central
+Chhattisgarh,2023,6,2023-06-01,56,7,Central
+Chhattisgarh,2023,7,2023-07-01,62,7,Central
+Chhattisgarh,2023,8,2023-08-01,72,7,Central
+Chhattisgarh,2023,9,2023-09-01,75,7,Central
+Chhattisgarh,2023,10,2023-10-01,67,7,Central
+Chhattisgarh,2023,11,2023-11-01,66,7,Central
+Chhattisgarh,2023,12,2023-12-01,82,8,Central
+Assam,2019,1,2019-01-01,0,0,East
+Assam,2019,2,2019-02-01,0,0,East
+Assam,2019,3,2019-03-01,0,0,East
+Assam,2019,4,2019-04-01,0,0,East
+Assam,2019,5,2019-05-01,0,0,East
+Assam,2019,6,2019-06-01,0,0,East
+Assam,2019,7,2019-07-01,0,0,East
+Assam,2019,8,2019-08-01,1,0,East
+Assam,2019,9,2019-09-01,1,1,East
+Assam,2019,10,2019-10-01,1,1,East
+Assam,2019,11,2019-11-01,2,1,East
+Assam,2019,12,2019-12-01,2,1,East
+Assam,2020,1,2020-01-01,2,1,East
+Assam,2020,2,2020-02-01,4,1,East
+Assam,2020,3,2020-03-01,4,1,East
+Assam,2020,4,2020-04-01,4,1,East
+Assam,2020,5,2020-05-01,4,1,East
+Assam,2020,6,2020-06-01,7,2,East
+Assam,2020,7,2020-07-01,6,2,East
+Assam,2020,8,2020-08-01,8,2,East
+Assam,2020,9,2020-09-01,7,2,East
+Assam,2020,10,2020-10-01,9,2,East
+Assam,2020,11,2020-11-01,10,2,East
+Assam,2020,12,2020-12-01,11,2,East
+Assam,2021,1,2021-01-01,12,2,East
+Assam,2021,2,2021-02-01,13,3,East
+Assam,2021,3,2021-03-01,12,3,East
+Assam,2021,4,2021-04-01,15,3,East
+Assam,2021,5,2021-05-01,16,3,East
+Assam,2021,6,2021-06-01,17,3,East
+Assam,2021,7,2021-07-01,18,3,East
+Assam,2021,8,2021-08-01,16,3,East
+Assam,2021,9,2021-09-01,17,3,East
+Assam,2021,10,2021-10-01,16,3,East
+Assam,2021,11,2021-11-01,26,4,East
+Assam,2021,12,2021-12-01,27,4,East
+Assam,2022,1,2022-01-01,29,4,East
+Assam,2022,2,2022-02-01,29,4,East
+Assam,2022,3,2022-03-01,22,4,East
+Assam,2022,4,2022-04-01,27,4,East
+Assam,2022,5,2022-05-01,33,4,East
+Assam,2022,6,2022-06-01,34,4,East
+Assam,2022,7,2022-07-01,34,5,East
+Assam,2022,8,2022-08-01,39,5,East
+Assam,2022,9,2022-09-01,39,5,East
+Assam,2022,10,2022-10-01,41,5,East
+Assam,2022,11,2022-11-01,39,5,East
+Assam,2022,12,2022-12-01,50,5,East
+Assam,2023,1,2023-01-01,44,5,East
+Assam,2023,2,2023-02-01,40,5,East
+Assam,2023,3,2023-03-01,45,5,East
+Assam,2023,4,2023-04-01,50,6,East
+Assam,2023,5,2023-05-01,61,6,East
+Assam,2023,6,2023-06-01,56,6,East
+Assam,2023,7,2023-07-01,57,6,East
+Assam,2023,8,2023-08-01,51,6,East
+Assam,2023,9,2023-09-01,69,6,East
+Assam,2023,10,2023-10-01,60,6,East
+Assam,2023,11,2023-11-01,66,6,East
+Assam,2023,12,2023-12-01,82,7,East
+Himachal Pradesh,2019,1,2019-01-01,0,0,North
+Himachal Pradesh,2019,2,2019-02-01,0,0,North
+Himachal Pradesh,2019,3,2019-03-01,0,0,North
+Himachal Pradesh,2019,4,2019-04-01,0,0,North
+Himachal Pradesh,2019,5,2019-05-01,0,0,North
+Himachal Pradesh,2019,6,2019-06-01,0,0,North
+Himachal Pradesh,2019,7,2019-07-01,0,0,North
+Himachal Pradesh,2019,8,2019-08-01,1,0,North
+Himachal Pradesh,2019,9,2019-09-01,1,0,North
+Himachal Pradesh,2019,10,2019-10-01,2,1,North
+Himachal Pradesh,2019,11,2019-11-01,2,1,North
+Himachal Pradesh,2019,12,2019-12-01,2,1,North
+Himachal Pradesh,2020,1,2020-01-01,2,1,North
+Himachal Pradesh,2020,2,2020-02-01,3,1,North
+Himachal Pradesh,2020,3,2020-03-01,3,1,North
+Himachal Pradesh,2020,4,2020-04-01,3,1,North
+Himachal Pradesh,2020,5,2020-05-01,4,1,North
+Himachal Pradesh,2020,6,2020-06-01,4,1,North
+Himachal Pradesh,2020,7,2020-07-01,6,1,North
+Himachal Pradesh,2020,8,2020-08-01,6,2,North
+Himachal Pradesh,2020,9,2020-09-01,5,2,North
+Himachal Pradesh,2020,10,2020-10-01,8,2,North
+Himachal Pradesh,2020,11,2020-11-01,8,2,North
+Himachal Pradesh,2020,12,2020-12-01,11,2,North
+Himachal Pradesh,2021,1,2021-01-01,10,2,North
+Himachal Pradesh,2021,2,2021-02-01,9,2,North
+Himachal Pradesh,2021,3,2021-03-01,8,2,North
+Himachal Pradesh,2021,4,2021-04-01,11,2,North
+Himachal Pradesh,2021,5,2021-05-01,12,2,North
+Himachal Pradesh,2021,6,2021-06-01,16,3,North
+Himachal Pradesh,2021,7,2021-07-01,15,3,North
+Himachal Pradesh,2021,8,2021-08-01,19,3,North
+Himachal Pradesh,2021,9,2021-09-01,15,3,North
+Himachal Pradesh,2021,10,2021-10-01,21,3,North
+Himachal Pradesh,2021,11,2021-11-01,22,3,North
+Himachal Pradesh,2021,12,2021-12-01,16,3,North
+Himachal Pradesh,2022,1,2022-01-01,26,3,North
+Himachal Pradesh,2022,2,2022-02-01,24,3,North
+Himachal Pradesh,2022,3,2022-03-01,26,3,North
+Himachal Pradesh,2022,4,2022-04-01,23,4,North
+Himachal Pradesh,2022,5,2022-05-01,32,4,North
+Himachal Pradesh,2022,6,2022-06-01,25,4,North
+Himachal Pradesh,2022,7,2022-07-01,33,4,North
+Himachal Pradesh,2022,8,2022-08-01,35,4,North
+Himachal Pradesh,2022,9,2022-09-01,29,4,North
+Himachal Pradesh,2022,10,2022-10-01,43,4,North
+Himachal Pradesh,2022,11,2022-11-01,37,4,North
+Himachal Pradesh,2022,12,2022-12-01,41,4,North
+Himachal Pradesh,2023,1,2023-01-01,32,4,North
+Himachal Pradesh,2023,2,2023-02-01,52,5,North
+Himachal Pradesh,2023,3,2023-03-01,36,5,North
+Himachal Pradesh,2023,4,2023-04-01,50,5,North
+Himachal Pradesh,2023,5,2023-05-01,41,5,North
+Himachal Pradesh,2023,6,2023-06-01,44,5,North
+Himachal Pradesh,2023,7,2023-07-01,55,5,North
+Himachal Pradesh,2023,8,2023-08-01,58,5,North
+Himachal Pradesh,2023,9,2023-09-01,45,5,North
+Himachal Pradesh,2023,10,2023-10-01,63,5,North
+Himachal Pradesh,2023,11,2023-11-01,65,5,North
+Himachal Pradesh,2023,12,2023-12-01,53,6,North

@@ -89,8 +89,14 @@ st.markdown("""
         background    : #FFFFFF !important;
     }
     div[data-testid="stChatInput"] textarea {
-        color      : #1A1A2E !important;
-        background : transparent !important;
+    background-color : #FFFFFF !important;
+    color            : #000000 !important;
+    caret-color      : #000000 !important;
+    }
+    /* Placeholder */
+    div[data-testid="stChatInput"] textarea::placeholder {
+        color: #666666 !important;
+        opacity: 1 !important;
     }
     div[data-testid="stChatInput"]:focus-within > div {
         border-color : #E74C3C !important;

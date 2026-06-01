@@ -239,10 +239,18 @@ with col_clear:
 
 # Empty state
 if len(st.session_state.messages) == 0:
-    st.info(
-        "🏍️ Ask about sales trends, EV vs petrol, brands, "
-        "specifications, pricing or market insights."
-    )
+    st.markdown("""
+    <div style="
+        background:#EAF4FF;
+        padding:0.8rem 1rem;
+        border-radius:10px;
+        margin-bottom:0.5rem;
+        color:#1A1A2E;
+        font-size:0.9rem;">
+        🏍️ Ask about sales trends, EV vs petrol, brands,
+        specifications, pricing or market insights.
+    </div>
+    """, unsafe_allow_html=True)
 # Display chat history
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):

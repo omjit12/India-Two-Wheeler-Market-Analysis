@@ -124,8 +124,9 @@ st.markdown("""
 
     /* ── Empty state ────────────────────────────────────────────────────────── */
     .empty-state {
-        text-align : center;
-        padding    : 4rem 2rem;
+    text-align : center;
+    padding    : 1rem 1rem;
+    margin     : 0;
     }
     .empty-state .icon  { font-size: 3.5rem; margin-bottom: 1rem; }
     .empty-state .title { font-size: 1.1rem; color: #718096; margin-bottom: 0.5rem; }
@@ -217,7 +218,10 @@ with col_right:
                             use_container_width=True):
             st.session_state["prefill"] = q
 
-st.divider()
+st.markdown(
+    "<div style='margin:0.4rem 0'></div>",
+    unsafe_allow_html=True
+)
 
 # ── Chat area ─────────────────────────────────────────────────────────────────
 if "messages" not in st.session_state:
@@ -235,18 +239,10 @@ with col_clear:
 
 # Empty state
 if len(st.session_state.messages) == 0:
-    st.markdown("""
-    <div class="empty-state">
-        <div class="icon">🏍️</div>
-        <div class="title">Start a conversation</div>
-        <div class="sub">
-            Click a suggested question above or type your own below.<br>
-            Ask about sales trends, EV vs petrol, brand analysis,
-            specs, pricing — anything about India's bike market.
-        </div>
-    </div>
-    """, unsafe_allow_html=True)
-
+    st.info(
+        "🏍️ Ask about sales trends, EV vs petrol, brands, "
+        "specifications, pricing or market insights."
+    )
 # Display chat history
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
@@ -256,7 +252,8 @@ for msg in st.session_state.messages:
 user_input = st.chat_input("Ask about India's bike market...")
 
 if "prefill" in st.session_state:
-    user_input = st.session_state.pop("prefill")
+    prefill = st.session_state.pop("prefill")
+    user_input = prefill
 
 if user_input:
     st.session_state.messages.append({"role":"user","content":user_input})
@@ -266,13 +263,7 @@ if user_input:
     with st.chat_message("assistant"):
         with st.spinner("Analysing market data..."):
             response = ask_gemini(user_input, context)
-        placeholder = st.empty()
-        displayed   = ""
-        for char in response:
-            displayed += char
-            placeholder.markdown(displayed)
-            time.sleep(0.005)
-
+        st.markdown(response)
     st.session_state.messages.append({
         "role"   : "assistant",
         "content": response

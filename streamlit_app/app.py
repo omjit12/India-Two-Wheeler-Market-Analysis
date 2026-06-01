@@ -72,7 +72,7 @@ with col1:
     <div style="background:#FFFFFF; border:1px solid #2ECC71;
                 border-radius:14px; padding:2rem; height:220px;
                 box-shadow:0 2px 8px rgba(0,0,0,0.06);">
-        <div style="font-size:2.5rem; margin-bottom:0.8rem;">🤖</div>
+        <div style="font-size:2.5rem; margin-bottom:0.8rem;">🧠 </div>
         <div style="font-size:1.3rem; font-weight:800;
                     color:#2ECC71; margin-bottom:0.5rem;">
             AI Market Analyst
@@ -85,7 +85,7 @@ with col1:
     </div>
     """, unsafe_allow_html=True)
     st.markdown("<br>", unsafe_allow_html=True)
-    st.page_link("pages/01_chatbot.py", label="🤖  Open AI Market Analyst →")
+    st.page_link("pages/01_chatbot.py", label="🧠   Open AI Market Analyst →")
 
 with col2:
     st.markdown("""

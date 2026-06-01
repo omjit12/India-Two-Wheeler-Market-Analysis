@@ -12,7 +12,15 @@ def get_theme():
 
     /* ── Main background — white ───────────────────────────────────────────── */
     .stApp                 { background-color: #F8F9FA; }
-    .main .block-container { padding-top: 1.5rem; }
+    .main .block-container {
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 100% !important;
+    }
+    [data-testid="stAppViewContainer"] > .main {
+    max-width: 100% !important;
+    }
 
     /* ── Sidebar — black ───────────────────────────────────────────────────── */
     [data-testid="stSidebar"] {

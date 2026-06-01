@@ -44,8 +44,6 @@ def render_sidebar(bikes_df=None):
             """, unsafe_allow_html=True)
 
             stats = [
-                ("#2ECC71", "EV Bikes",        int(bikes_df['is_ev'].sum())),
-                ("#E74C3C", "Petrol Bikes",     int((~bikes_df['is_ev']).sum())),
                 ("#3498DB", "Total Bikes",      len(bikes_df)),
                 ("#3498DB", "Brands",           bikes_df['brand'].nunique()),
                 ("#F39C12", "Segments",         bikes_df['segment'].nunique()),

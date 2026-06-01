@@ -150,7 +150,7 @@ st.markdown("""
             border:1px solid #1A1A1A; border-radius:12px;
             padding:1.5rem 2rem; margin-bottom:1.5rem;">
     <div style="font-size:1.8rem; font-weight:800; color:#FFFFFF;">
-        🤖 AI <span style="color:#E74C3C;">Market Analyst</span>
+        🧠  AI <span style="color:#E74C3C;">Market Analyst</span>
     </div>
     <div style="color:#7F8C8D; font-size:0.88rem; margin-top:0.3rem;">
         Ask anything about India's two-wheeler market ·

@@ -28,7 +28,7 @@ def render_sidebar(bikes_df=None):
         """, unsafe_allow_html=True)
 
         st.page_link("app.py",                label="🏠   Home")
-        st.page_link("pages/01_chatbot.py",   label="🤖   AI Market Analyst")
+        st.page_link("pages/01_chatbot.py",   label="🧠    AI Market Analyst")
         st.page_link("pages/02_recommend.py", label="🎯   Bike Recommender")
 
         # ── Quick Stats ───────────────────────────────────────────────────────

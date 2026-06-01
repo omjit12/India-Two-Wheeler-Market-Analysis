@@ -5,7 +5,7 @@ def render_sidebar(bikes_df=None):
 
         # ── Logo ──────────────────────────────────────────────────────────────
         st.markdown("""
-        <div style="text-align:center; padding:0.4rem 0;
+        <div style="text-align:center; padding:0.2rem 0;
                     border-bottom:1px solid #2ECC71; margin-bottom:0.5rem;">
             <div style="font-size:1.8rem;">🏍️</div>
             <div style="color:#FFFFFF; font-weight:800;

@@ -5,9 +5,9 @@ def render_sidebar(bikes_df=None):
 
         # ── Logo ──────────────────────────────────────────────────────────────
         st.markdown("""
-        <div style="text-align:center; padding:1.2rem 0;
-                    border-bottom:1px solid #2ECC71; margin-bottom:1.2rem;">
-            <div style="font-size:2.5rem;">🏍️</div>
+        <div style="text-align:center; padding:0.4rem 0;
+                    border-bottom:1px solid #2ECC71; margin-bottom:0.5rem;">
+            <div style="font-size:1.8rem;">🏍️</div>
             <div style="color:#FFFFFF; font-weight:800;
                         font-size:1.05rem; letter-spacing:0.5px;">
                 India Bike Market
@@ -57,7 +57,7 @@ def render_sidebar(bikes_df=None):
             for color, label, value in stats:
                 st.markdown(f"""
                 <div style="display:flex; justify-content:space-between;
-                            align-items:center; padding:0.42rem 0.3rem;
+                            align-items:center; padding:0.25rem 0.3rem;
                             border-bottom:1px solid #2C3E50;
                             font-size:0.82rem;">
                     <span style="color:#BDC3C7; display:flex;

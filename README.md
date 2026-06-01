@@ -249,7 +249,3 @@ openpyxl
 - 🐙 https://github.com/omjit12/India-Two-Wheeler-Market-Analysis
 
 ---
-
-## 📄 License
-
-MIT License — feel free to use this project as a reference or template.

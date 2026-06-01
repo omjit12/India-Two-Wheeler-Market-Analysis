@@ -131,5 +131,28 @@ def get_theme():
         border        : 1px solid #E0E0E0 !important;
         border-radius : 8px !important;
     }
+    /* Chat message text */
+    [data-testid="stChatMessage"] p,
+    [data-testid="stChatMessage"] li,
+    [data-testid="stChatMessage"] ol,
+    [data-testid="stChatMessage"] ul,
+    [data-testid="stChatMessage"] span,
+    [data-testid="stChatMessage"] div {
+        color: #1A1A2E !important;
+    }
+    
+    /* Chat message headings */
+    [data-testid="stChatMessage"] h1,
+    [data-testid="stChatMessage"] h2,
+    [data-testid="stChatMessage"] h3,
+    [data-testid="stChatMessage"] h4 {
+        color: #1A1A2E !important;
+        font-weight: 700 !important;
+    }
+    
+    /* Markdown content */
+    .stMarkdown {
+        color: #1A1A2E !important;
+    }
 </style>
 """

@@ -4,7 +4,7 @@ import pandas as pd
 BASE_DIR = Path(__file__).parent.parent
 
 def load_bikes():
-    return pd.read_csv(BASE_DIR / "data" / "master" / "dim_bikes.csv")
+    return pd.read_csv(BASE_DIR / "data" / "master" / "master_bike_data.csv")
 
 def load_sales():
     return pd.read_csv(BASE_DIR / "data" / "master" / "sales_monthly.csv")

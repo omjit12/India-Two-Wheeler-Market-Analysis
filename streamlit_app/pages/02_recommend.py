@@ -29,7 +29,7 @@ st.markdown("""
         border-radius : 10px !important;
         font-size     : 1rem !important;
         font-weight   : 700 !important;
-        padding       : 0.8rem !important;
+        padding       : 0.45rem !important;
         box-shadow    : none !important;
         outline       : none !important;
         transition    : all 0.3s !important;
@@ -157,7 +157,7 @@ render_sidebar(bikes_df)
 st.markdown("""
 <div style="background:linear-gradient(135deg,#000000,#1A1A1A);
             border:1px solid #1A1A1A; border-radius:12px;
-            padding:1.5rem 2rem; margin-bottom:1.5rem;">
+            padding:1rem 1.5rem; margin-bottom:1.5rem;">
     <div style="font-size:1.8rem; font-weight:800; color:#FFFFFF;">
         🎯 AI <span style="color:#E74C3C;">Bike Recommender</span>
     </div>
@@ -256,7 +256,7 @@ with col_preview:
         ]].sort_values("price_inr").reset_index(drop=True).copy()
         display.columns = ["Bike","Brand","Segment","Price (Rs)","Fuel","⭐"]
         st.dataframe(display, use_container_width=True,
-                     height=300, hide_index=True)
+                     height=180, hide_index=True)
     else:
         st.warning("No bikes found. Try adjusting your budget or fuel preference.")
 
